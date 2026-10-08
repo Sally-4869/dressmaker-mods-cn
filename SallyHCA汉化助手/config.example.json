@@ -1,0 +1,19 @@
+{
+  "GameDir": "",
+  "Mode": "dict",
+  "Provider": "deepseek",
+  "BaseUrl": "https://api.deepseek.com/v1",
+  "Model": "deepseek-chat",
+  "ApiKey": "",
+  "BaiduAppId": "",
+  "BaiduKey": "",
+  "YoudaoAppKey": "",
+  "YoudaoSecret": "",
+  "BatchSize": 20,
+  "Concurrency": 2,
+  "TimeoutSec": 40,
+  "DictFallbackToApi": false,
+  "AutoBackup": true,
+  "KeepUnknownEnglish": true,
+  "ExtraDict": ""
+}

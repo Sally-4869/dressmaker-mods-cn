@@ -1,0 +1,2574 @@
+# 界面/名称译文：英文<TAB>中文（由汉化助手维护，优先级高于内置词典）
+  baseAccessory: 	  baseAccessory： 
+ #line:	 #line:
+ (Instance)	 （实例）
+ (already installed)	 （已安装）
+ (and more).	 （还有更多）。
+ (fabric view)	 （布料视图）
+ (item 	 （物品 
+ (original)	（原始）
+ Assets	 资源
+ Check dressDependencies in mod.json.	 请检查 mod.json 中的 dressDependencies。
+ Filenames must match, including capital letters.	 文件名必须完全一致，包括大小写。
+ Icon	 图标
+ Icon Texture	 图标贴图
+ Images found beside mod.json: 	 mod.json 旁的图像： 
+ Material	 材质
+ Mesh	 网格
+ Panel 	 面片 
+ Prefab	 预制体
+ Sketch	 草图
+ Texture	 贴图
+ accessories	 个配饰
+ accessories added	 个配饰已添加
+ accessories · 	 配饰 · 
+ alternate button.	 备用按钮。
+ and restart Dressmaker	 并重启针影裁梦
+ and restart Dressmaker before importing.	 并在导入前重启「针影裁梦」。
+ arrow	 方向键
+ art replacements · 	 美术替换 · 
+ back after an interrupted update.	 更新中断后。
+ backups	 个备份
+ before exporting this dress.	 后再导出此连衣裙。
+ before importing; 	 后再导入; 
+ built-in accessory definitions.	 个内置配饰定义。
+ cannot be overwritten by this plugin version.	 无法被此插件版本覆盖。
+ characters.	 个字符。
+ cleanup failed: 	 清理失败： 
+ clients	 位客户
+ clients ? 	 客户 ? 
+ commission(s), and 	 个委托，以及 
+ commissions	 个委托
+ commissions ? 	 委托 ? 
+ custom accessory(s).	 个自定义配饰。
+ custom client(s), 	 个自定义客户、 
+ custom fabric(s).	 个自定义布料。
+ custom garment component(s).	 个自定义服装部件。
+ definitions.	 个定义。
+ dialogues	 段对话
+ does not expose property 	 未公开属性 
+ dress template(s).	 个服装模板。
+ dresses	 条连衣裙
+ dresses · 	 连衣裙 · 
+ fabric added	 种布料已添加
+ fabric tags	 布料标签
+ fabric types	 布料类型
+ fabric unlock(s) earned by prestige or recorded in the save.	 个通过声望获得或记录在存档中的布料解锁。
+ fabrics	 种布料
+ fabrics added	 种布料已添加
+ failed: 	 失败： 
+ file is missing	 文件缺失
+ for SheerFabrics.	 用于 SheerFabrics。
+ for replacement on restart.	 将在重启后替换。
+ from plugin ZIP. Compatibility is not verified.	 来自插件 ZIP。兼容性未经验证。
+ game methods.	 个游戏方法。
+ has ambiguous mesh names; choose its source meshes instead.	 的网格名称有歧义；请改为选择其源网格。
+ has an oversized mod.json. Repair it before importing.	 的 mod.json 过大。导入前请修复。
+ has an unreadable mod.json. Repair it before importing.	 的 mod.json 无法读取。导入前请修复。
+ has no property 	 没有属性 
+ has type 	 的类型为 
+ in mod.json.	 于 mod.json 中。
+ in this pack.	 在此资源包中。
+ input claim 	 输入占用 
+ is already installed.	 已安装。
+ is not a text Unity material. Re-export it with text serialization.	 不是文本格式的 Unity 材质。请以文本序列化重新导出。
+ is ready. Restart Dressmaker to apply it.	 已就绪。重启针影裁梦以应用。
+ languages	 种语言
+ lifecycle 	 生命周期 
+ loaded (game 	 已加载（游戏 
+ localization table(s) for 	 个本地化表，对象为 
+ more	 项更多
+ must be a finite number.	 必须是有限数值。
+ must be finite.	 必须为有限值。
+ must be text.	 必须是文本。
+ must keep the aspect ratio of 	 必须保持以下宽高比： 
+ needs 	 需要 
+ needs SheerFabrics. Install SheerFabrics and restart Dressmaker.	 需要 SheerFabrics。请安装 SheerFabrics 并重启 针影裁梦。
+ needs a PNG or JPEG texture.	 需要 PNG 或 JPEG 贴图。
+ needs a hex colour or an object with numeric r, g, b and optional a.	 需要十六进制颜色，或包含数值 r、g、b 和可选 a 的对象。
+ needs a hex colour such as #AABBCC, or numeric r, g, b and optional a.	 需要 #AABBCC 这样的十六进制颜色，或数值 r、g、b 和可选 a。
+ needs a migration from version 	 需要从版本迁移 
+ needs a newer plugin version. It has been kept unchanged.	 需要更新的插件版本。它已被保持不变。
+ needs an image path.	 需要图片路径。
+ numeric values.	 个数值。
+ or the mod's Discord. 	 或该模组的 Discord。 
+ packs loaded.	 个资源包已加载。
+ pattern	 片纸样
+ patterns	 种图案
+ pencil colors	 铅笔颜色
+ reference export: 	 引用导出: 
+ references a texture missing from the package.	 引用的贴图不在资源包中。
+ refers to unknown garment '	 指向未知服装 '
+ repeated calls.	 次重复调用。
+ rule	 rule
+ slider	 滑条
+ story dialogue(s).	 段剧情对话。
+ tags	个标签
+ to BepInEx/plugins. Restart Dressmaker to try loading it.	 到 BepInEx/plugins。重启针影裁梦以尝试加载。
+ to inventory.	 到库存。
+ to the pack. Add another colour or click Pack to save.	 到资源包。可再添加一种颜色，或点击打包保存。
+ unused missing-item entries from the current save's lists.	 个未使用的缺失物品条目（来自当前存档的列表）。
+ uses a C# material or texture that cannot be bundled. Its plugin is still required.	 使用了无法打包的 C# 材质或纹理。仍需其插件。
+ uses a dress template as its baseComponent. Use a garment component before sharing it.	 使用连衣裙模板作为 baseComponent。分享前请改用服装组件。
+ value	 值
+ variant(s).	 个变体。
+ was disabled: 	 已被禁用： 
+ was skipped: 	 已跳过： 
+ with 	 包含 
+ · Restart Dressmaker to use it.	 · 重启针影裁梦以使用。
+" to the correct filename.	" 改为正确的文件名。
+", but that file is missing. Add it beside mod.json, or change "	"，但该文件缺失。请将其添加到 mod.json 旁边，或将 "
+". Use OBJ or mesh JSON; import FBX through Accessory Creator in a Unity package.	"。请使用 OBJ 或网格 JSON；通过 Unity 包中的配饰创建器导入 FBX。
+0 credits	0 项鸣谢
+3D rendering resolution percentage. 0 keeps the game's setting; UI resolution is unchanged.	3D渲染分辨率百分比。0 表示沿用游戏设置；UI分辨率不变。
+A Blue Starry Sky Cotton	蓝色星空棉布
+A client can have at most 32 named expressions.	一个客户最多可有 32 个具名表情。
+A client needs a name.	客户需要名称。
+A commission needs a name and a budget from 0 to 1000000.	委托需要名称和 0 到 1000000 的预算。
+A content pack ZIP needs one mod.json file. This ZIP has either none or more than one.	内容资源包 ZIP 需要一个 mod.json 文件。此 ZIP 中没有或有多个。
+A creator pack can contain up to 100 accessories.	创作者资源包最多可包含 100 个配饰。
+A custom tag needs a valid mod ID, tag ID, and display name.	自定义标签需要有效的模组ID、标签ID和显示名称。
+A disabled copy of this pack is already installed.	已安装此资源包的禁用副本。
+A fabric image is missing or outside its pack.	布料图像缺失或位于资源包之外。
+A fabric needs an id and display name.	布料需要 id 和显示名称。
+A fabric type needs a valid mod ID, type ID, and display name.	布料类型需要有效的模组ID、类型ID和显示名称。
+A file could not be read or written	无法读取或写入文件
+A file or folder is missing	文件或文件夹缺失
+A file or the whole pack is larger than the installer allows. The details below show the limit where available.	某个文件或整个资源包超出了安装程序允许的大小。下面的详情会在可能时显示该限制。
+A friendship reward has an empty garment ID.	一个友情奖励的服装 ID 为空。
+A friendship reward needs 1 to 64 garment IDs.	友情奖励需要 1 到 64 个服装ID。
+A garment component needs id, name, and baseComponent.	服装部件需要 id、name 和 baseComponent。
+A ground-up fabric needs fabricType, colors, tagWeights, cost, and unlockLevel.	全新布料需要 fabricType、colors、tagWeights、cost 和 unlockLevel。
+A ground-up fabric needs material.shader.	全新制作的布料需要 material.shader。
+A language needs either a file or folder in mod.json.	语言需要在 mod.json 中指定文件或文件夹。
+A loading problem needs a code and explanation.	加载问题需要代码和说明。
+A mod update is pending. Restart Dressmaker to apply it.	有模组更新待处理。重启 针影裁梦 以应用。
+A pack setting needs fixing	资源包设置需要修正
+A pack with this ID is already installed.	已安装同 ID 的资源包。
+A pack with this ID is installed under another folder name.	已安装同 ID 的资源包，但文件夹名不同。
+A pack with this folder name already exists.	已存在同名文件夹的资源包。
+A pencil color registration already uses this ID: 	已有铅笔颜色注册使用此 ID: 
+A plugin save entry cannot exceed 1 MiB.	插件存档条目不能超过 1 MiB。
+A purchase clip with this ID already exists: 	此ID的购买音频片段已存在： 
+A save reset is already running.	存档重置已在进行中。
+A saved custom accessory is missing. Restore its mod to recover it: 	已保存的自定义配饰缺失。恢复其模组以找回: 
+A saved custom fabric is missing. Restore its mod to recover it: 	已保存的自定义布料缺失。恢复其模组以找回: 
+A saved custom garment is missing. Restore its mod to recover it: 	已保存的自定义服装缺失。恢复其模组以找回: 
+A setting needs a title.	设置需要标题。
+A shader needs an ID, name and loaded Unity shader.	着色器需要 ID、名称和已加载的 Unity 着色器。
+A slider needs a finite increasing range.	滑块需要有限的递增范围。
+A soundtrack track with this ID is already registered: 	此ID的原声音轨已注册： 
+A tab needs an ID and title.	标签页需要 ID 与标题。
+A tab needs non-null settings.	标签页的设置不能为空。
+Abstract Chaos Silk	抽象混沌真丝
+Abstract Purple Silk	抽象紫色真丝
+Abstract Violet Silk	抽象紫罗兰真丝
+Absynthe Lace on Tulle	苦艾绿薄纱蕾丝
+Abyss Animal Print Silk	深渊兽纹真丝
+Accessibility	无障碍
+Accessories	配饰
+Accessories in this pack	此资源包中的配饰
+Accessory	配饰
+Accessory 	配饰 
+Accessory Creator	配饰创建器
+Accessory added. Click Pack when you are ready to save.	配饰已添加。准备好保存时点击打包。
+Accessory could not load: 	配饰无法加载： 
+Accessory down	配饰下移
+Accessory draft	配饰草稿
+Accessory draft 	配饰草稿 
+Accessory editor	配饰编辑器
+Accessory exceeds 65,535 vertices. Import fewer mesh parts.	配饰顶点超过 65,535 个。请减少导入的网格部件。
+Accessory factory returned no prefab.	配饰工厂未返回预制体。
+Accessory import	配饰导入
+Accessory import camera	配饰导入相机
+Accessory import light	配饰导入灯光
+Accessory import preview	配饰导入预览
+Accessory left	配饰左移
+Accessory materials currently use their base accessory's shader: 	配饰材质目前使用其基础配饰的着色器： 
+Accessory model exceeds 8 MB.	配饰模型超过 8 MB。
+Accessory model exceeds 8 MB. Import fewer mesh parts.	配饰模型超过 8 MB。请减少导入的网格部件。
+Accessory model has an invalid coordinate.	配饰模型包含无效坐标。
+Accessory model has invalid vertices, UVs, or triangles.	配饰模型的顶点、UV或三角形无效。
+Accessory name	配饰名称
+Accessory needs id, name, model, texture, and icon.	配饰需要 id、name、model、texture 和 icon。
+Accessory pack details	配饰包详情
+Accessory placement guides	配饰摆放辅助线
+Accessory placement rule	配饰摆放规则
+Accessory placement rule 	配饰摆放规则 
+Accessory prefab callback failed: 	配饰预制体回调失败： 
+Accessory prefabs must be accessed on Unity's main thread after Mod Loader starts.	必须在模组加载器启动后于 Unity 主线程访问配饰预制体。
+Accessory preview	配饰预览
+Accessory price or unlock level is outside the supported range.	配饰价格或解锁等级超出支持范围。
+Accessory right	配饰右移
+Accessory surface grid	配饰表面网格
+Accessory symmetry	配饰对称
+Accessory symmetry 	配饰对称 
+Accessory triangle index is out of range.	配饰三角形索引超出范围。
+Accessory up	配饰上移
+Accessory uses too many materials.	配饰使用的材质过多。
+Accurate sheer layers	精确薄纱分层
+Achilles Gradient Cotton	彩虹渐变棉布（男同性恋·阿喀琉斯）
+Achromatic Gray Gradient 1 Silk	无彩灰渐变1真丝
+Achromatic Gray Gradient 2 Silk	无彩灰渐变2真丝
+Achromatic Gray Gradient 3 Silk	无彩灰渐变3真丝
+Achromatic Gray Gradient 4 Silk	无彩灰渐变4真丝
+Action	动作
+Add	添加
+Add PNG patch	添加 PNG 补丁
+Add an author name of up to 80 characters.	请添加作者名称，最多 80 个字符。
+Add at least one fabric to the pack, or split a large pack into smaller ones.	请至少向资源包添加一种布料，或将大型资源包拆分为多个。
+Add between 1 and 100 accessories to the pack.	请向资源包添加 1 到 100 个配饰。
+Add fabric	添加布料
+Add fabric to pack	添加布料到资源包
+Add patch to pack	添加贴片到资源包
+Add patches and imported models to one pack.	将补丁和导入的模型添加到一个资源包中。
+Add several fabrics, then install and ZIP them together.	添加多种布料，然后一起安装并打包为 ZIP。
+Add the names and licenses of the assets used in your pack.	添加资源包中所用素材的名称和许可。
+Add the pack author's name.	请填写资源包作者名称。
+Add variant to pack	添加变体到资源包
+Add your name as the pack author.	请填写你的名字作为资源包作者。
+Added	已添加
+Added 	已添加 
+Adds the Reduced effects settings tab.	添加「减弱效果」设置选项卡。
+Adjust the bright reflection. Raise Gloss to make it easier to see.	调整明亮的反射。提高光泽度可更易看清。
+Adjust the sheen along the fabric. Raise Gloss to make it easier to see.	调整布料表面的光泽。提高光泽度可更易看清。
+Advance dialogue	推进对话
+Advanced actions rule	高级操作分隔线
+Advanced controls	高级控件
+Advanced fabric preview: 	高级布料预览：
+Advanced fabric properties	高级布料属性
+Advanced heading rule	高级标题分隔线
+Advanced preview	高级预览
+Advanced scrolling controls	高级滚动控件
+Advanced tab rule	高级选项卡分隔线
+After you restart, this will replace every save slot and dress thumbnail. A safety copy of your current saves will be made first.	重启后，此操作将替换所有存档槽位与连衣裙缩略图。会先为当前存档创建安全副本。
+Alice in Wonderland 1	爱丽丝梦游仙境 1
+Alice-themed Fabric 1	爱丽丝主题布料 1
+Alice-themed Fabric 10	爱丽丝主题布料 10
+Alice-themed Fabric 11	爱丽丝主题布料 11
+Alice-themed Fabric 12	爱丽丝主题布料 12
+Alice-themed Fabric 13	爱丽丝主题布料 13
+Alice-themed Fabric 14	爱丽丝主题布料 14
+Alice-themed Fabric 15	爱丽丝主题布料 15
+Alice-themed Fabric 16	爱丽丝主题布料 16
+Alice-themed Fabric 18	爱丽丝主题布料 18
+Alice-themed Fabric 19	爱丽丝主题布料 19
+Alice-themed Fabric 2	爱丽丝主题布料 2
+Alice-themed Fabric 3	爱丽丝主题布料 3
+Alice-themed Fabric 4	爱丽丝主题布料 4
+Alice-themed Fabric 5	爱丽丝主题布料 5
+Alice-themed Fabric 6	爱丽丝主题布料 6
+Alice-themed Fabric 7	爱丽丝主题布料 7
+Alice-themed Fabric 8	爱丽丝主题布料 8
+Alice-themed Fabric 9	爱丽丝主题布料 9
+All Seeing Eyes Patch	全视之眼补丁
+All mods will be disabled after restarting Dressmaker. Mod Loader stays enabled.	重启针影裁梦后将禁用全部模组。模组加载器保持启用。
+All mods will be enabled after restarting Dressmaker.	重启针影裁梦后将启用全部模组。
+All pack files must be beside or below mod.json.	所有资源包文件必须位于 mod.json 同级或下级。
+All pieces must be cut and placed first.	必须先裁剪并放置所有裁片。
+Allow unfinished dresses	允许未完成的连衣裙
+Allows smaller bust, waist and hips.	允许更小的胸围、腰围和臀围。
+Alpha	不透明度
+Alternate	交替
+Always 100% piece quality	裁片始终 100% 品质
+Amaranth Pink Gradient 1 Silk	苋菜粉渐变1真丝
+Amaranth Pink Gradient 2 Silk	苋菜粉渐变2真丝
+Amaranth Pink Gradient 3 Silk	苋菜粉渐变3真丝
+Amaranth Pink Gradient 4 Silk	苋菜粉渐变4真丝
+An accessory asset is missing or outside its pack: 	配饰资源缺失或不在其资源包内： 
+An accessory package is already being read.	正在读取一个配饰包。
+An earlier pack update did not finish. Restart Dressmaker, then try again.	上次资源包更新未完成。请重启针影裁梦后重试。
+An earlier update is unfinished, or the selected file changed while the installer was reading it.	之前的更新尚未完成，或所选文件在安装程序读取时发生了变化。
+An export definition must work without plugin callbacks, shaders or runtime textures.	导出定义必须在不依赖插件回调、着色器或运行时纹理的情况下工作。
+An in-game fabric is already called 	游戏内已存在名为 
+Angel Mermaid	天使美人鱼
+Angelic Shot Organza	天使白闪光欧根纱
+Another copy is already installed	已安装另一份副本
+Anti-aliasing (MSAA)	抗锯齿 (MSAA)
+Appearance	外观
+Applies when loading, saving or opening item lists. Restore a pack to recover its items.	在加载、保存或打开物品列表时生效。恢复资源包即可找回其物品。
+Applique	贴花
+Applique Luna Moth	月神蛾贴花
+Apply	应用
+Apply and edit simple finish	应用并编辑简单质感
+Apply to fabric	应用到布料
+Aquamarine Mermaid	海蓝宝美人鱼
+Archive metadata is too large.	归档元数据过大。
+Argylle Blue Cotton	蓝色菱格纹棉布
+Array of ColorType names used by filters and commission rules.	筛选器与委托规则使用的 ColorType 名称数组。
+Array of ItemTag names and numeric weights; positive weights count as tags.	ItemTag 名称与数值权重组成的数组；正权重计为标签。
+Arrow	箭头
+Art images must be PNG or JPEG files.	美术图像必须是 PNG 或 JPEG 文件。
+Art kind must be sprite, image, rawImage, material, or character.	美术类型必须是 sprite、image、rawImage、material 或 character。
+Art materialIndex must be 0 to 63.	美术 materialIndex 必须为 0 到 63。
+Art reference written to 	美术引用已写入 
+Art replacement 	美术替换 
+Art replacement needs an image path.	美术替换需要图像路径。
+Asset name	素材名称
+Asset paths must be relative to the mod folder.	资源路径必须相对于模组文件夹。
+Asset paths must stay inside the mod folder.	资源路径必须位于模组文件夹内。
+Assets/	Assets/
+At least one entry cannot be copied safely into a mod folder. The details below identify the entry when available.	至少有一个条目无法安全复制到模组文件夹。下面的详情会在可能时指出该条目。
+Attribution	署名
+Attribution 	鸣谢 
+Author	作者
+Automatic copies run at most every 30 minutes. Restores apply at next launch.	自动复制最多每 30 分钟运行一次。恢复将在下次启动时生效。
+Available tags	可用标签
+Azure Mermaid	天蓝美人鱼
+Azure Pinstripe Cotton	天蓝细条纹棉布
+Baby Blue Floral Cotton	浅蓝花卉棉布
+Baby Pink Argylle Cotton	浅粉菱形格棉布
+Back of fabric brightness	布料背面亮度
+Back to fabric	返回布料
+Back to game	返回游戏
+Back to pack	返回资源包
+Back up all save slots and recovery copies as one ZIP.	将所有存档槽位与恢复副本备份为一个 ZIP。
+Back up saves now	立即备份存档
+Backdrop	背景
+Backup	备份
+Backup 	备份 
+Backup note divider	备份说明分隔线
+Backup pagination rule	备份分页分隔线
+Backup preview: 	备份预览：
+Backup thumbnail	备份缩略图
+Backup thumbnail exceeds the preview size limit.	备份缩略图超出预览大小限制。
+Backup thumbnail is too large to preview.	备份缩略图过大，无法预览。
+Backup thumbnail source	备份缩略图来源
+Backup thumbnail: 	备份缩略图：
+Backups	备份
+Banner selected	已选择横幅
+Base accessory has no renderer.	基础配饰没有渲染器。
+Base image preview	基础图像预览
+Bats in Midnight	午夜蝙蝠
+Bats in Vintage	复古蝙蝠
+Bigger	更大
+Binary prefabs are not supported; use the source mesh choices.	不支持二进制预制体；请使用源网格选项。
+Binding unchanged.	绑定未更改。
+Bird Blossom Silk	鸟语花香真丝
+Black	黑色
+Black & White on Purple Silk	紫色真丝黑色与白色
+Black Silk Chiffon	黑色真丝雪纺
+Black Vine Lace on Tulle	黑色藤蔓薄纱蕾丝
+Blood Red Lace	血红蕾丝镶边
+Bloom	泛光
+Blue	蓝色
+Blue Collection	蓝色系列
+Blue Dahlia Flowers Cotton	蓝大丽花棉布
+Blue Damask Silk	蓝色提花真丝
+Blue Diagonal Granny Squares	蓝色斜纹祖母方格
+Blue Diamond Cotton	蓝色菱钻棉布
+Blue Flowers White Cotton	蓝花白底棉布
+Blue Gradient Granny Squares	蓝色渐变祖母方格
+Blue Leaves Cotton	蓝叶棉布
+Blue Ridges Cotton	蓝色罗纹棉布
+Blue Rose Cotton	蓝玫瑰棉布
+Blue ZigZag Cotton	蓝色锯齿纹棉布
+Botanical Pinstripe Cotton	植物细条纹棉布
+Bright Pink Sequins	亮粉色亮片布
+Bright Purple Floral Silk	明亮紫色花卉真丝
+Brightness of light spots.	光斑的亮度。
+Brilliant Pink Lace on Tulle	艳粉薄纱蕾丝
+Brilliant Red Lace on Tulle	艳红薄纱蕾丝
+Brink Pink Gradient 1 Silk	亮粉渐变1真丝
+Brink Pink Gradient 2 Silk	亮粉渐变2真丝
+Brink Pink Gradient 3 Silk	亮粉渐变3真丝
+Brink Pink Gradient 4 Silk	亮粉渐变4真丝
+Bronze Lace on Tulle	古铜薄纱蕾丝
+Brooch 01 Silver	胸针 01 银色
+Brown	棕色
+Brown Exposed Stitches Trim	棕色明线镶边
+Brown Gradient Granny Squares	棕色渐变祖母方格
+Brown Seam Line Trim	棕色缝线镶边
+Brown Tulips Cotton	棕色郁金香棉布
+Browse	浏览
+Bubblegum Takeover Cotton	泡泡糖狂潮棉布
+Bundled dress content exceeds 128 MB compressed.	内置服装内容压缩后超过 128 MB。
+Bunny Familiar Patch	兔子使魔补丁
+Burgundy Silk Chiffon	勃艮第红真丝雪纺
+Burlap	粗麻布
+Burnt Coral Cotton	焦珊瑚棉布
+Burnt Coral Patchwork Cotton	焦珊瑚拼布棉布
+Bust, waist and hips use native body slider values from 0 (smallest) to 1 (largest). Omit shape to inherit baseCharacter.	胸围、腰围和臀围使用原生身形滑块数值，从 0（最小）到 1（最大）。省略 shape 则继承 baseCharacter。
+Butter Silk Chiffon	奶油黄真丝雪纺
+Button border	按钮边框
+Buy fabric and accessories without spending gold.	购买布料和配饰不消耗金币。
+Buy things without spending gold.	购买物品不消耗金币。
+Call ArtModApi on Unity's main thread.	请在 Unity 主线程调用 ArtModApi。
+Call DebugConsoleApi from Unity's main thread.	请在 Unity 主线程调用 DebugConsoleApi。
+Call FabricModApi from Unity's main thread.	请从 Unity 主线程调用 FabricModApi。
+Call FabricRenderApi on Unity's main thread.	请在 Unity 主线程调用 FabricRenderApi。
+Call PencilColorModApi from Unity's main thread after Mod Loader initializes.	请在模组加载器初始化后，从 Unity 主线程调用 PencilColorModApi。
+Call PurchaseSoundModApi from Unity's main thread.	请从 Unity 主线程调用 PurchaseSoundModApi。
+Call SoundtrackModApi from Unity's main thread.	请从 Unity 主线程调用 SoundtrackModApi。
+Call this API on Unity's main thread after Mod Loader starts.	请在模组加载器启动后于 Unity 主线程调用此 API。
+Camera down	视角下移
+Camera left	视角左移
+Camera right	视角右移
+Camera up	视角上移
+Cancel	取消
+Cancelled accessory import failed: 	已取消配饰导入失败：
+Candy Dreams Cotton	糖果梦境棉布
+Candy Factory Cotton	糖果工厂棉布
+Cannot change linked mod folder: 	无法更改链接的模组文件夹： 
+Capitoné in Blood Red	血红绗缝
+Capitoné in Riot Red	狂野红绗缝
+Capitoné in Ruby	红宝石绗缝
+Category name	类别名称
+Category names must contain 1 to 60 readable characters.	类别名称需包含 1 到 60 个可读字符。
+Centered pack icon	居中资源包图标
+Champagne Mermaid	香槟色美人鱼
+Champagne Silk Chiffon	香槟色真丝雪纺
+Changed: 	已更改：
+Changes are saved automatically.	更改会自动保存。
+Character art uses a character assetName, without scene or objectPath.	角色美术使用角色 assetName，不含 scene 或 objectPath。
+Check renamed parts and material slots here.	在此检查重命名的部件与材质槽位。
+Checking download	正在检查下载
+Cherry Blossoms Silk	樱花真丝
+Cherry Bomb Cotton	樱桃炸弹棉布
+Chickenscratch cotton	乱针纹棉布
+Choice panel	选择面板
+Choice popup	选择弹窗
+Choose PNG	选择 PNG
+Choose Unity package	选择 Unity 包
+Choose ZIP/DLL	选择 ZIP/DLL
+Choose a .dll mod file.	请选择 .dll 模组文件。
+Choose a .unitypackage to get started.	选择一个 .unitypackage 开始。
+Choose a 1 or 2 mm edge.	请选择 1 或 2 毫米的边。
+Choose a Dressmaker Mod Manager release ZIP for this platform.	请选择适用于此平台的针影裁梦模组管理器发行版 ZIP。
+Choose a PNG or JPEG image.	请选择 PNG 或 JPEG 图像。
+Choose a Unity package under 256 MB.	请选择小于 256 MB 的 Unity 包。
+Choose a ZIP with one fabric.json or fabrics.json and its images.	请选择包含一个 fabric.json 或 fabrics.json 及其图像的 ZIP。
+Choose a backup from the Dressmaker Save Backups folder.	请从针影裁梦存档备份文件夹中选择一个备份。
+Choose a cut-out PNG	选择抠好的PNG
+Choose a fabric texture	选择布料贴图
+Choose a fabric texture in the Textures tab, or an in-game fabric to copy.	在纹理选项卡中选择布料贴图，或选择要复制的游戏内布料。
+Choose a fabric, accessory or garment component.	请选择布料、配饰或服装部件。
+Choose a lifecycle event and callback.	请选择生命周期事件和回调。
+Choose a material for every mesh part.	请为每个网格部件选择材质。
+Choose a mod ZIP or folder	选择模组ZIP或文件夹
+Choose a mod ZIP, DLL, folder, or enter its path.	选择模组 ZIP、DLL、文件夹，或输入其路径。
+Choose a mod or Unity package	选择模组或 Unity 包
+Choose a mod pack folder	选择模组包文件夹
+Choose a pack banner	选择资源包横幅
+Choose a pack icon	选择资源包图标
+Choose a pack to see its details, or install one below.	选择一个资源包查看其详情，或在下方安装一个。
+Choose a package with at most 128 materials.	请选择最多 128 种材质的资源包。
+Choose a package with at most 32 FBX models.	请选择最多 32 个 FBX 模型的资源包。
+Choose a patch width from 1 to 30 cm.	请选择 1 到 30 厘米的补丁宽度。
+Choose a registered client.	请选择已注册的客户。
+Choose a registered mod garment.	请选择已注册的模组服装。
+Choose a supported shader.	请选择受支持的着色器。
+Choose a texture	选择贴图
+Choose a texture, or an in-game fabric to recolor.	请选择纹理，或选择要重新着色的游戏内布料。
+Choose a transparent PNG for the patch.	请为补丁选择透明 PNG。
+Choose a transparent PNG to preview your patch.	选择透明 PNG 以预览贴片。
+Choose a transparent PNG, then set the patch width.	选择透明 PNG，然后设置贴片宽度。
+Choose a valid bead spacing for the custom trim model.	请为自定义花边模型选择有效的珠距。
+Choose a width between 0.1 and 100 cm.	请选择 0.1 到 100 厘米之间的宽度。
+Choose an accessory Unity package	选择配饰 Unity 包
+Choose an existing PNG or JPEG texture for each fabric.	请为每种布料选择现有的 PNG 或 JPEG 纹理。
+Choose an existing baseAccessory.	请选择现有的 baseAccessory。
+Choose an image	选择图像
+Choose an image or a game fabric to preview.	选择图像或游戏内布料以预览。
+Choose an image under 8 MB for the live preview.	请选择小于 8 MB 的图像用于实时预览。
+Choose an in-game fabric to mimic.	请选择要模仿的游戏内布料。
+Choose an original game item of the same type as the fallback.	请选择与回退项同类型的原版游戏物品。
+Choose another file	选择其他文件
+Choose at least one color.	请至少选择一种颜色。
+Choose different slots.	请选择不同的槽位。
+Choose either texture or RuntimeTexture for a fabric.	布料只能选择 texture 或 RuntimeTexture。
+Choose folder	选择文件夹
+Choose game fabric tags with strengths from 1 to 100.	请选择游戏布料标签，强度为 1 到 100。
+Choose how this fabric looks and how it appears in the shop.	选择此布料的外观及其在商店中的显示方式。
+Choose image	选择图片
+Choose one	选择一项
+Choose one accessory to add to the draft.	请选择一个配饰加入草稿。
+Choose tags (	选择标签（
+Choose tags and set how strongly they fit this fabric.	选择标签并设置它们与此布料的契合强度。
+Choose the model parts and width, then click Preview.	选择模型部件与宽度，然后点击预览。
+Choose the original edge color, black edges, or no edges.	选择原始边缘颜色、黑色边缘或不显示边缘。
+Choose the original edges, black edges, or none.	选择原始边缘、黑色边缘或不显示。
+Circular dress content dependency.	连衣裙内容依赖循环。
+Circular dress content dependency: 	循环的连衣裙内容依赖: 
+Circular imported pack dependency.	导入的资源包依赖循环。
+Cleaned saved fabric placeholders: repaired 	已清理存档中的布料占位符：修复了 
+Clear	清除
+Clear tags	清除标签
+Clear the console output.	清空控制台输出。
+Click Confirm remove to back up and remove 	点击确认移除以备份并移除 
+Click Edit accessories again to replace the current draft.	再次点击「编辑配饰」以替换当前草稿。
+Click Edit fabrics again to replace the current draft with this saved pack.	再次点击编辑布料，用此已保存的资源包替换当前草稿。
+Click Make, install and ZIP pack again to back up and replace the installed pack.	点击生成，再次安装并打包 ZIP 以备份并替换已安装的资源包。
+Click New pack again to clear the current draft.	再次点击新建资源包以清除当前草稿。
+Click New pack again to clear this draft.	再次点击「新建资源包」以清除此草稿。
+Click the cloth to see it larger.	点击布料可放大查看。
+Client shape values must be from 0 to 1, matching the game's body sliders.	客户体型数值必须在 0 到 1 之间，与游戏身形滑块一致。
+Close	关闭
+Cloud White Cotton	云白棉布
+Color	颜色
+Color wheel	色轮
+Colorful Flowers Cotton	缤纷花卉棉布
+Colour texture exceeds 16 million pixels. Resize it before importing.	颜色贴图超过 1600 万像素。导入前请调整尺寸。
+Colour texture exceeds 25 MB.	颜色贴图超过 25 MB。
+Colourful Stitches and Seams	Colourful Stitches与Seams
+Colours	颜色
+Command already registered: 	命令已注册： 
+Command input	命令输入
+Commission bust, waist and hips must be in centimetres within the mannequin range.	委托的胸围、腰围和臀围必须以厘米为单位，且在人台范围内。
+Community channel for modded-game support.	用于模组游戏支持的社区频道。
+Compiled story dialogue for 	已编译剧情对话： 
+Complete	完成
+Complete sewing	完成缝纫
+Complete sewing (100%)	完成缝纫 (100%)
+Confirm DLL copy	确认复制 DLL
+Confirm remove	确认移除
+Confirm update	确认更新
+Console	控制台
+Controls	操作
+Cool Granny Squares	凉爽祖母方格
+Cool Multi-Color Granny Squares	凉爽多彩祖母方格
+Copied	已复制
+Copied 	已复制 
+Copy	复制
+Copy modifier	复制修饰键
+Copy report	复制报告
+Copying material properties from 	正在从以下来源复制材质属性 
+Coral Silk Chiffon	珊瑚真丝雪纺
+Cottagecore Critters Cotton	乡舍小动物棉布
+Cottagecore Fabric Pack	乡舍田园布料包
+Cotton	棉布
+Cotton Candy Diamonds Wool	棉花糖菱纹羊毛呢
+Could not add Mod Settings to Options on 	无法将模组设置添加到选项 
+Could not apply the queued Mod Manager update: 	无法应用排队的模组管理器更新： 
+Could not apply this setting. Please check the loader log.	无法应用此设置。请检查加载器日志。
+Could not cache	无法缓存
+Could not cache 	无法缓存 
+Could not cache accessory mesh: 	无法缓存配饰网格： 
+Could not cache texture preview: 	无法缓存纹理预览： 
+Could not check this mod	无法检查此模组
+Could not complete sewing. Check the loader log.	无法完成缝纫。请检查加载器日志。
+Could not copy. The error is in BepInEx/LogOutput.log.	无法复制。错误信息见 BepInEx/LogOutput.log。
+Could not create accessory	无法创建配饰
+Could not create accessory 	无法创建配饰 
+Could not decode image: 	无法解码图像: 
+Could not delete	无法删除
+Could not delete 	无法删除 
+Could not export accessory reference: 	无法导出配饰参考： 
+Could not export garment reference: 	无法导出服装参考： 
+Could not export localization tables for 	无法为以下对象导出本地化表 
+Could not export mannequin fitting reference: 	无法导出人台试穿参考： 
+Could not export native pattern icon: 	无法导出原生图样图标： 
+Could not export story reference: 	无法导出剧情参考： 
+Could not export the fitting reference. See the loader log for details.	无法导出试穿参考。详情请查看加载器日志。
+Could not find a single mod pack	未找到唯一的模组包
+Could not find native pattern icon for Split Crew Neck Bodice	找不到「分片圆领上衣」的原生图样图标
+Could not finish an interrupted mod pack change: 	无法完成中断的模组包更改： 
+Could not import previous-version dialogue progress: 	无法导入旧版本对话进度: 
+Could not initialize localization reference export.	无法初始化本地化引用导出。
+Could not install startup compatibility: 	无法安装启动兼容： 
+Could not install this mod	无法安装此模组
+Could not load	无法加载
+Could not load 	无法加载 
+Could not load art replacements from 	无法从以下位置加载美术替换 
+Could not load fabric for pattern icon: 	无法为纸样图标加载布料: 
+Could not load full texture	无法加载完整贴图
+Could not load full texture 	无法加载完整纹理 
+Could not load localization pack 	无法加载本地化资源包 
+Could not load pencil palette from 	无法从以下位置加载铅笔调色板 
+Could not load texture for photo: 	无法为照片加载纹理: 
+Could not load unlock fabric preview: 	无法加载解锁布料预览： 
+Could not make automatic save backup: 	无法创建自动存档备份： 
+Could not make the accessory importer executable.	无法将配饰导入器设为可执行。
+Could not make the first-run save backup; it will be retried next launch: 	无法创建首次运行的存档备份；将在下次启动时重试： 
+Could not match the body mesh to commission measurements for 	无法将身体网格与以下委托尺寸匹配 
+Could not mirror accessory	无法镜像配饰
+Could not mirror accessory 	无法镜像配饰 
+Could not nudge selected accessory: 	无法微调所选配饰: 
+Could not open Mod Settings: 	无法打开模组设置： 
+Could not open debug console: 	无法打开调试控制台： 
+Could not open exports folder: 	无法打开导出文件夹: 
+Could not prepare mod story dialogue: 	无法准备模组剧情对话: 
+Could not preview image: 	无法预览图像：
+Could not preview pack icon: 	无法预览资源包图标：
+Could not read SheerFabrics definitions 	无法读取 SheerFabrics 定义 
+Could not read SheerFabrics pack 	无法读取 SheerFabrics 资源包 
+Could not read accessories from 	无法从以下位置读取配饰： 
+Could not read content fallback: 	无法读取内容回退项： 
+Could not read garments from	无法从以下位置读取服装：
+Could not read garments from 	无法从以下位置读取服装： 
+Could not read retained garment pack 	无法读取保留的服装包 
+Could not read story pack	无法读取剧情包
+Could not read story pack 	无法读取剧情包 
+Could not record pack diagnostics: 	无法记录资源包诊断信息： 
+Could not recover pattern	无法恢复纸样
+Could not recover pattern 	无法恢复纸样 
+Could not recover patterns. Please check the loader log.	无法找回纸样。请检查加载器日志。
+Could not register	无法注册
+Could not register 	无法注册 
+Could not register Modded fabric tag: 	无法注册 Modded 布料标签： 
+Could not remove unfinished fabric pack files: 	无法删除未完成的布料包文件： 
+Could not render fabric preview: 	无法渲染布料预览：
+Could not replay accessory edit: 	无法重放配饰编辑: 
+Could not resize managed texture 	无法调整受管理纹理的大小 
+Could not restart Dressmaker. Please close and reopen it to load your mods.	无法重启 针影裁梦。请关闭并重新打开以加载你的模组。
+Could not restore queued save backup: 	无法恢复排队的存档备份： 
+Could not retain garment pack	无法保留服装包
+Could not retain garment pack 	无法保留服装包 
+Could not retain story pack	无法保留剧情包
+Could not retain story pack 	无法保留剧情包 
+Could not save localization reference for 	无法为以下对象保存本地化引用 
+Could not save mod support notice acknowledgement: 	无法保存模组支持提示的确认状态： 
+Could not show mod support notice: 	无法显示模组支持提示: 
+Could not show save backup warning: 	无法显示存档备份警告: 
+Could not start the Mod Manager updater.	无法启动模组管理器更新程序。
+Could not stream SheerFabrics image 	无法流式加载 SheerFabrics 图像 
+Could not triangulate polygon. Triangulate or repair it before exporting.	无法三角化多边形。导出前请三角化或修复。
+Could not trim accessory mesh cache: 	无法清理配饰网格缓存： 
+Could not unlock everything. Check the loader log.	无法解锁全部内容。请检查加载器日志。
+Counts must be whole numbers from 0 to 100000.	数量必须是 0 到 100000 的整数。
+Credit editor paper	鸣谢编辑器纸张
+Credit text viewport	鸣谢文本视口
+Credits	制作人员
+Credits and licenses	鸣谢与许可
+Credits paper	鸣谢纸
+Crimson Gradient 1 Silk	绯红渐变1真丝
+Crimson Gradient 2 Silk	绯红渐变2真丝
+Crimson Gradient 3 Silk	绯红渐变3真丝
+Crimson Gradient 4 Silk	绯红渐变4真丝
+Criss Cross Baby Blue Cotton	浅蓝交叉纹棉布
+CrossedOut	已划掉
+Crowned Mermaid	加冕美人鱼
+Ctrl	Ctrl
+Ctrl+` to close  ·  help for commands  ·  Page Up/Down to scroll	Ctrl+` 关闭  ·  help 查看命令  ·  Page Up/Down 滚动
+Current mannequin shape	当前人台体型
+Custom	自定义
+Custom 	自定义 
+Custom tag GUID collision for 	自定义标签 GUID 冲突： 
+Cut and place every pattern piece on the mannequin first.	请先裁剪每片纸样并放到人台上。
+Cut-out image	抠图图像
+Cute Purple Butterfly Cotton	可爱紫色蝴蝶棉布
+Cute Purple Floral Cotton	可爱紫色花卉棉布
+Cute Purple Plaid Cotton	可爱紫色格纹棉布
+Cute Simple Purple Flowers Cotton	可爱简约紫色花卉棉布
+Cutesy Fabrics	可爱风布料
+Cutout	镂空
+Cutting-table layer-mask cache replaced 	已替换裁剪台图层遮罩缓存 
+Cyan Gradient Granny Squares	青色渐变祖母方格
+Cyan and Orange Granny Squares	青色与橙色祖母方格
+DEBUG CONSOLE	调试控制台
+DLL plugin	DLL 插件
+Dark Brown Exposed Stitches Trim	深色棕色明线镶边
+Dark Brown Seam Line Trim	深色棕色缝线镶边
+Dark Green Damask Silk	深色绿色花缎真丝
+Dark Green Exposed Stitches Trim	深色绿色明线镶边
+Dark Green Seam Line Trim	深色绿色缝线镶边
+Dark Grey Exposed Stitches Trim	深色灰色明线镶边
+Dark Grey Seam Line Trim	深色灰色缝线镶边
+Dark Malachite Silk	深色孔雀石真丝
+Dark Ocean Blue Exposed Stitches Trim	深色海洋蓝色明线镶边
+Dark Ocean Blue Seam Line Trim	深色海洋蓝色缝线镶边
+Dark Olive Cotton	暗橄榄棉布
+Dark Orange Exposed Stitches Trim	深橙明线镶边
+Dark Orange Gradient 1 Silk	深橙渐变1真丝
+Dark Orange Gradient 2 Silk	深橙渐变2真丝
+Dark Orange Gradient 3 Silk	深橙渐变3真丝
+Dark Orange Gradient 4 Silk	深橙渐变4真丝
+Dark Orange Seam Line Trim	深橙缝线镶边
+Dark Pink Exposed Stitches Trim	深色粉色明线镶边
+Dark Pink Seam Line Trim	深色粉色缝线镶边
+Dark Purple Exposed Stitches Trim	深色紫色明线镶边
+Dark Purple Seam Line Trim	深色紫色缝线镶边
+Dark Red Exposed Stitches Trim	深色红色明线镶边
+Dark Red Seam Line Trim	深色红色缝线镶边
+Dark Sky Blue Exposed Stitches Trim	深色天空蓝色明线镶边
+Dark Sky Blue Seam Line Trim	深色天空蓝色缝线镶边
+Dark Yellow Exposed Stitches Trim	深色黄色明线镶边
+Dark Yellow Seam Line Trim	深色黄色缝线镶边
+Dawn Bias Gradient Silk	黎明斜裁渐变真丝
+Daydream Cotton	白日梦棉布
+Debug console command	调试控制台命令
+Debug console command 	调试控制台命令 
+Deep Sea Green Cotton	深海绿棉布
+Deepens the darker creases.	加深较暗的褶皱。
+Deer Familiar Patch	鹿使魔补丁
+Default	默认
+Default bindings restored.	已恢复默认绑定。
+Default properties	默认属性
+Deferred accessory hooks could not be installed; loading accessories immediately: 	无法安装延迟配饰钩子；将立即加载配饰： 
+Deferred accessory loading enabled for 	已为以下对象启用延迟配饰加载 
+Degenerate polygon. Repair it before exporting.	退化多边形。导出前请修复。
+Degenerate polygon. Triangulate or repair the mesh before exporting.	退化多边形。导出前请三角化或修复网格。
+Delicate Brown Flowers Cotton	柔棕花卉棉布
+Desaturated Indigo Cotton	灰调靛蓝棉布
+Description (optional)	描述（可选）
+Diagonally Striped Cotton Cotton	斜纹棉布
+Dialogue	对话
+Dialogue files must be .yarn files under 1 MB.	对话文件必须是小于 1 MB 的 .yarn 文件。
+Dialogue/Header/Name	Dialogue/Header/Name
+Diamond Dark Green Silk	钻石深色绿色真丝
+Diamond Tufting in Romance Red	浪漫红色菱格绗缝
+Dionysus Gradient Cotton	彩虹渐变棉布（双性恋·狄俄尼索斯）
+Disable	禁用
+Disable all mods	禁用全部模组
+Disabled	已禁用
+Disabled 	已禁用 
+Disabled through Mod Loader.	已通过模组加载器禁用。
+Discord	Discord
+Discord button	Discord 按钮
+Discord icon	Discord 图标
+Display name (Fabric.prettyName).	显示名称（Fabric.prettyName）。
+Distance	距离
+Distance label	距离标签
+Distance label background	距离标签背景
+Divider	分隔条
+Divider center	分隔线中心
+Divider ornament	分隔线装饰
+Divine Mosaic Cotton	神圣马赛克棉布
+Do not register, refresh, or dispose render hooks inside a material callback.	请勿在材质回调中注册、刷新或释放渲染钩子。
+Done	完成
+Down	下
+Down 	下 
+Down arrow	方向键下
+Dragonfly Cotton	蜻蜓棉布
+Dreamy Watercolor Cotton	梦幻水彩棉布
+Dress Files	连衣裙文件
+Dress content	服装内容
+Dress content definitions exceed 4 MB.	服装内容定义超过 4 MB。
+Dress content exceeds 128 MB compressed.	服装内容压缩后超过 128 MB。
+Dress content exceeds its size or file limit.	服装内容超出大小或文件数量限制。
+Dress content is too large.	连衣裙内容过大。
+Dress content root or dependency is missing.	连衣裙内容根节点或依赖缺失。
+Dress content: 	服装内容： 
+Dress export failed: 	连衣裙导出失败: 
+Dress exported with its required mod content.	连衣裙已连同其所需模组内容导出。
+Dress import	服装导入
+Dress import failed: 	连衣裙导入失败: 
+Dress imported. Existing content was reused.	连衣裙已导入。已复用现有内容。
+Dress imported. Its missing content is now available in the shops and Mod Manager.	连衣裙已导入。其缺失内容现已在商店与模组管理器中可用。
+Dress pins	珠针
+Dress pins 	连衣裙珠针 
+Dress sewing quality calculation has changed.	连衣裙缝纫质量的计算方式已更改。
+Dress template	服装模板
+Dress template 	服装模板 
+Dress template: 	服装模板： 
+Dressmaker Debug Console	针影裁梦 调试控制台
+Dressmaker Mod Manager	针影裁梦 模组管理器
+Dressmaker Mods 	针影裁梦 模组 
+Dressmaker Reduced Effects	针影裁梦 Reduced Effects
+Dressmaker Save Backups	针影裁梦存档备份
+Dressmaker accessories	针影裁梦配饰
+Dressmaker art fallback	针影裁梦 美术备用图
+Dressmaker banner fallback	针影裁梦 横幅备用图
+Dressmaker cannot access a file	针影裁梦 无法访问文件
+Dressmaker did not start.	针影裁梦 未启动。
+Dressmaker fabric preview bolt	针影裁梦布料预览布卷
+Dressmaker fabric preview camera	针影裁梦布料预览摄像机
+Dressmaker fabric preview light	针影裁梦布料预览灯光
+Dressmaker key art	针影裁梦 主视觉图
+Dressmaker rendered fabric preview	针影裁梦渲染的布料预览
+Dressmaker tint brightness	针影裁梦 色调亮度
+Dressmaker tint wheel	针影裁梦 色调轮
+Duplicate accessory	配饰重复
+Duplicate accessory 	重复的配饰 
+Duplicate art registration: 	美术注册重复： 
+Duplicate client: 	重复的客户： 
+Duplicate commission: 	重复的委托： 
+Duplicate custom tag	自定义标签重复
+Duplicate custom tag 	重复的自定义标签 
+Duplicate dress content identity.	重复的服装内容标识。
+Duplicate fabric name	布料名称重复
+Duplicate fabric name 	重复的布料名称 
+Duplicate fabric type	布料类型重复
+Duplicate fabric type 	重复的布料类型 
+Duplicate garment	服装重复
+Duplicate garment 	重复的服装 
+Duplicate garment component	服装部件重复
+Duplicate garment component 	重复的服装部件 
+Duplicate mod dialogue line ID: 	重复的模组对话行ID： 
+Duplicate story dialogue: 	重复的剧情对话： 
+Duplicate story pack ID.	重复的剧情包ID。
+Duplicate tag	标签重复
+Duplicate tag 	重复的标签 
+Duplicate template	模板重复
+Duplicate template 	重复的模板 
+Dusty Pink Lace on Tulle	灰粉薄纱蕾丝
+Dusty Rose Silk Chiffon	灰玫瑰真丝雪纺
+Each PNG or JPEG texture must be at most 25 MB.	每个 PNG 或 JPEG 纹理不得超过 25 MB。
+Each SheerFabrics fabric needs a unique name, a unique 32-digit hexadecimal guid, and baseFabric.	每个 SheerFabrics 布料都需要唯一名称、唯一的 32 位十六进制 guid 和 baseFabric。
+Each accessory must be an object.	每个配饰必须是一个对象。
+Each accessory needs a name of up to 100 characters.	每个配饰都需要不超过 100 个字符的名称。
+Each accessory needs a unique ID.	每个配饰都需要唯一ID。
+Each art replacement must be an object.	每个美术替换必须是对象。
+Each art replacement needs a unique id (letters, numbers, dots, underscores or hyphens).	每个美术替换都需要唯一的 id（字母、数字、点、下划线或连字符）。
+Each attribution must be an object.	每条鸣谢必须是一个对象。
+Each attribution needs a name.	每条鸣谢都需要名称。
+Each colour becomes a separate item in the shop.	每种颜色都会成为商店中的独立物品。
+Each dialogue entry must be one line of Yarn dialogue.	每个对话条目必须是 Yarn 对话的一行。
+Each fabric must be a JSON object.	每个布料必须是 JSON 对象。
+Each fabric needs a unique name, textile type, and color.	每种布料需要唯一的名称、织物类型与颜色。
+Each pencil category must be an object.	每个铅笔类别必须是对象。
+Each pencil category needs a unique id using letters, numbers, dots, underscores or hyphens.	每个铅笔类别需要唯一 id，可使用字母、数字、点、下划线或连字符。
+Each pencil palette needs 1 to 128 colors.	每个铅笔调色板需要 1 到 128 种颜色。
+Ebony Lace on Tulle	乌木黑薄纱蕾丝
+Edge color	边缘颜色
+Edge outlines	边缘轮廓
+Edge sheen	边缘光泽
+Edit	编辑
+Edit accessories	编辑配饰
+Edit accessory	编辑配饰
+Edit credits	编辑鸣谢
+Edit fabric	编辑布料
+Edit fabrics	编辑布料
+Editing	编辑中
+Editing 	正在编辑 
+Editor actions rule	编辑器操作分隔线
+Editor heading rule	编辑器标题分隔线
+Electric Yellow Gradient 1 Silk	电光黄渐变1真丝
+Electric Yellow Gradient 2 Silk	电光黄渐变2真丝
+Electric Yellow Gradient 3 Silk	电光黄渐变3真丝
+Electric Yellow Gradient 4 Silk	电光黄渐变4真丝
+Ember Bias Gradient Silk	余烬斜裁渐变真丝
+Embroidery patch	刺绣补丁
+Emerald Flame Shot Organza	翡翠火焰闪光欧根纱
+Emerald Silk Chiffon	祖母绿真丝雪纺
+Emporium fabric display	商城布料展示
+Emporium fabric display 	商场布料展台 
+Enable	启用
+Enable 	启用 
+Enable all mods	启用全部模组
+Enabled	已启用
+Enabled 	已启用 
+Enter a valid whole-number price.	请输入有效的整数价格。
+Enter a whole number for the shop price.	请输入整数作为商店价格。
+Enter a whole-number accessory price from 0 to 2149633.	请输入 0 到 2149633 的整数配饰价格。
+Enter a whole-number shop price.	请输入整数商店价格。
+Enter a width in centimetres.	请输入宽度（厘米）。
+Enter an accessory name and a valid whole-number shop price.	请输入配饰名称和有效的整数商店价格。
+Enter an accessory name of up to 100 characters.	请输入配饰名称，最多 100 个字符。
+Enter path	输入路径
+Enter the width in centimetres, for example 6.5.	以厘米输入宽度，例如 6.5。
+Escape	Esc
+Every face corner needs a UV coordinate. Export the mesh with UVs.	每个面的角都需要 UV 坐标。请导出带 UV 的网格。
+Every story definition needs an ID.	每个剧情定义都需要一个ID。
+Exact FabricType asset name.	精确的 FabricType 资源名称。
+Excluded: 	已排除：
+Expected a SheerFabrics definition or list of definitions.	应为 SheerFabrics 定义或定义列表。
+Export Dress	导出连衣裙
+Export asset not found: 	未找到导出资源： 
+Export positions without vertex colors or homogeneous weights.	导出位置时不要包含顶点颜色或齐次权重。
+Exported	已导出
+Exported 	已导出 
+Exported fabric reference to 	已将布料引用导出到 
+Exported garment reference with 	已导出服装参考，包含 
+Exported mannequin fitting reference to 	已导出人台试穿参考至 
+Exported native pattern icon 	已导出原生图样图标 
+Expression	表情
+Expression 	表情 
+Expression names must be unique and use letters, numbers, or underscores, starting with a letter: 	表情名称必须唯一，只能使用字母、数字或下划线，且以字母开头： 
+F6 · Places a mirrored copy. Uses two accessories.	F6 · 放置镜像副本。消耗两件配饰。
+F7 · Show or hide sewing pins and trim control pins.	F7 · 显示或隐藏缝纫别针和饰边控制点。
+FBX has duplicate mesh names. Give each mesh a unique name before exporting.	FBX 存在重复的网格名称。导出前请为每个网格取唯一名称。
+FBX import failed: 	FBX 导入失败： 
+FBX import took too long. Try a smaller model.	FBX 导入耗时过长。请尝试更小的模型。
+FINISH EARLY	提前完成
+Fabric	布料
+Fabric 	布料 
+Fabric JSON is larger than 4 MB.	布料 JSON 大于 4 MB。
+Fabric actions divider	布料操作分隔线
+Fabric archive entry exceeds its declared size.	布料压缩包条目超出其声明的大小。
+Fabric archive entry is too large: 	布料压缩包条目过大： 
+Fabric archive entry is truncated.	布料压缩包条目被截断。
+Fabric color in highlight: 	高光处的布料颜色：
+Fabric fields	布料字段
+Fabric image is missing or is a link: 	布料图像缺失或是链接： 
+Fabric image is missing or larger than 25 MB: 	布料图像缺失或大于 25 MB： 
+Fabric images cannot use linked paths: 	布料图像不能使用链接路径： 
+Fabric list divider	布料列表分隔线
+Fabric mod ID must use letters, digits, dots, underscores, or hyphens.	布料模组ID只能使用字母、数字、点、下划线或连字符。
+Fabric name	布料名称
+Fabric pack	布料包
+Fabric pack 	布料包 
+Fabric pack details	布料包详情
+Fabric plugin registration failed: 	布料插件注册失败： 
+Fabric preview	布料预览
+Fabric preview panel	布料预览面板
+Fabric preview source	布料预览来源
+Fabric preview texture	布料预览贴图
+Fabric preview: source 	布料预览：来源 
+Fabric price is outside the supported range (0-	布料价格超出支持范围（0-
+Fabric properties	布料属性
+Fabric reference export failed: 	布料引用导出失败: 
+Fabric render override failed for 	布料渲染覆盖失败： 
+Fabric shader is missing or unsupported on this platform.	布料着色器缺失，或此平台不支持。
+Fabric tag	布料标签
+Fabric tag 	布料标签 
+Fabric tags	布料标签
+Fabric texture is not a valid image: 	布料纹理不是有效图像: 
+Fabric textures and pack icon exceed the 1 GB pack limit.	布料纹理与资源包图标超出 1 GB 的资源包上限。
+Fabric type	布料类型
+Fabric type 	布料类型 
+Fabric type GUID collision for 	布料类型 GUID 冲突： 
+Fabrics	布料
+Fabrics in this pack	此资源包中的布料
+Fabrics, accessories and garment pieces imported with a dress.	随服装一并导入的布料、配饰和服装部件。
+Face	面部
+Face index is out of range.	面索引超出范围。
+Faces need 3 to 256 corners. Triangulate larger faces before exporting.	面需要 3 到 256 个角。导出前请将更大的面三角化。
+Family of Roses Silk	玫瑰世家真丝
+Fern Green Gradient 1 Silk	蕨绿渐变1真丝
+Fern Green Gradient 2 Silk	蕨绿渐变2真丝
+Fern Green Gradient 3 Silk	蕨绿渐变3真丝
+Fern Green Gradient 4 Silk	蕨绿渐变4真丝
+Field of White Petals Cotton	白瓣花田棉布
+File panel	文件面板
+File picker	文件选择器
+File results	文件结果
+Files only	仅文件
+Fill	填充
+Fill area	填充区域
+Filter	筛选
+Filter 	筛选 
+Find a file or folder	查找文件或文件夹
+Finish Dress	完成连衣裙
+Finish a dress with missing pieces or unsewn seams. Place at least one cut piece first.	允许在缺少裁片或未缝好接缝时完成连衣裙。请先放置至少一个裁片。
+Finish unfinished dress	完成未完成的连衣裙
+Finish with the pieces currently placed. Unsewn seams stay unsewn.	以当前已摆放的裁片完成。未缝制的接缝保持未缝制。
+Finish without placing or sewing every piece.	无需放置或缝好每个裁片即可完成。
+Flame Mermaid	火焰美人鱼
+Float	浮点
+Floral Dream Cotton	梦幻花卉棉布
+Floral Retro Cotton	复古花卉棉布
+Flower Granny Squares	花卉祖母方格
+Flower Mermaid	花卉美人鱼
+Flower Patch Cotton	花拼片棉布
+Flowers on Plaid Cotton	格纹棉布花卉
+Flowing Pink Silk	飘逸粉真丝
+Flowing Purple Silk	飘逸紫色真丝
+Folder	文件夹
+Folder not found: 	未找到文件夹: 
+Footer	页脚
+Footer divider	页脚分隔线
+For the fabric's reverse side.	用于布料的反面。
+Forest Fingers Patch	森林之指补丁
+Forest Green Lace on Tulle	森林绿薄纱蕾丝
+Forest Nymph Embroidered Patches	森林仙子刺绣补丁
+Forest Nymph Patch	森林仙子补丁
+Frame rate limit	帧率上限
+Free Placement	自由放置
+French Floral Black Lace on Tulle	黑色法式花卉薄纱蕾丝
+Friendship reward	友情奖励
+Friendship reward 	友情奖励 
+Friendship reward already registered: 	友情奖励已注册： 
+Friendship reward level must be a whole number from 1 to 5.	友情奖励等级必须是 1 到 5 的整数。
+Frozen Lace	冰霜蕾丝
+GPU budget for managed images. Visible images stay loaded; CPU copies use extra memory.	受管理图像的 GPU 上限。可见图像保持加载；CPU 副本会占用额外内存。
+GUID collision for 	GUID 冲突： 
+Game	游戏
+Game controls	游戏操作
+Game default	游戏默认
+Game fabric	游戏布料
+Gameplay	玩法
+Garment	服装
+Garment 	服装 
+Garment Icon	服装图标
+Garment Panel	服装面片
+Garment Sketch	服装草图
+Garment has invalid or duplicate tag weights.	服装包含无效或重复的标签权重。
+Garment has no variants or too many variants.	服装没有变体或变体过多。
+Garment must be a bodice, skirt, sleeve, or collar.	服装必须是上衣、裙子、袖子或领子。
+Garment needs 1-16 variants, each with 1-32 valid panels.	服装需要 1-16 个变体，每个变体包含 1-32 个有效面片。
+Garment pieces based on dress templates cannot be shared. Use a garment component as their baseComponent.	基于连衣裙模板的服装部件无法分享。请改用服装组件作为其 baseComponent。
+Garment plugin registration failed: 	服装插件注册失败： 
+Garment tag	服装标签
+Garment tag 	服装标签 
+Geometric Pink Cotton	几何粉色棉布
+Gilded Lapis Lazuli Silk	镀金青金石真丝
+Give a unique art registration ID.	请提供唯一的美术注册 ID。
+Give an exact assetName from art-export (the character ID for character art).	请提供来自 art-export 的准确 assetName（角色美术为角色 ID）。
+Give an input claim ID, channels and active predicate.	请提供输入占用 ID、通道和激活判定。
+Give every cut piece 100% quality, regardless of grain direction.	无论纹理方向，所有裁片都获得 100% 品质。
+Give the clip a stable ID.	请为音频片段提供稳定的ID。
+Give the garment a display name.	请为服装填写显示名称。
+Give the keybind a display name.	请为该快捷键提供显示名称。
+Give the keybind valid mod and local IDs.	请为该快捷键提供有效的模组 ID 与局部 ID。
+Give the pack a safe ID of up to 64 letters, numbers, dots, dashes, or underscores.	请为资源包提供安全 ID，最多 64 个字母、数字、点、短横线或下划线。
+Give the pack an ID using letters, numbers, dots, dashes or underscores.	请为资源包提供 ID，可使用字母、数字、点、短横线或下划线。
+Give the palette change a stable ID other than default.	请为该调色板更改提供除 default 外的稳定 ID。
+Give the patch a name of up to 100 characters.	请为补丁提供名称，最多 100 个字符。
+Give the placement rule a stable ID.	请为该摆放规则提供稳定的 ID。
+Give the previous local ID.	请提供之前的本地 ID。
+Give the reward a local ID.	请为奖励提供一个本地ID。
+Give the shader's asset name inside the bundle.	请填写着色器在包内的资源名称。
+Give the track a stable ID.	请为音轨提供稳定的ID。
+Gloss	光泽
+Glossier	更亮泽
+Glossy	亮泽
+Glow around bright highlights.	亮部高光周围的光晕。
+Gold Lace on Tulle	金色薄纱蕾丝
+Goose's Gander Cotton	鹅老爷棉布
+Got it	知道了
+Goth Hearts Cotton	哥特心形棉布
+Gothic Mermaid	哥特美人鱼
+Grandma's Wallpaper Cotton	祖母壁纸棉布
+Granny Squares Fabric Pack	祖母方格面料包
+Graphics	画面
+Green	绿色
+Green Bows on White Cotton	白色棉布绿色蝴蝶结
+Green Diagonal Granny Squares	绿色斜纹祖母方格
+Green Diamond Cotton	绿色菱形棉布
+Green Exposed Stitches Trim	绿色明线镶边
+Green Fabric Collection	绿色面料系列
+Green Gradient Granny Squares	绿色渐变祖母方格
+Green Plaid Wool	绿色格纹羊毛呢
+Green Seam Line Trim	绿色缝线镶边
+Green Stripes with Flowers Cotton	绿条纹花卉棉布
+Green and Blue Granny Squares	绿色蓝色祖母方格
+Grey	灰色
+Grey Exposed Stitches Trim	灰色明线镶边
+Grey Seam Line Trim	灰色缝线镶边
+Grid segment	网格段
+Guatambu Green Gradient 1 Silk	瓜塔姆布绿渐变1真丝
+Guatambu Green Gradient 2 Silk	瓜塔姆布绿渐变2真丝
+Guatambu Green Gradient 3 Silk	瓜塔姆布绿渐变3真丝
+Guatambu Green Gradient 4 Silk	瓜塔姆布绿渐变4真丝
+Half	一半
+Handle area	滑块区域
+Hazy Dream Cotton	朦胧梦境棉布
+Header	页眉
+Heart Patches Cotton	爱心拼片棉布
+Hello!	你好！
+Hex color	十六进制颜色
+Hidden/InternalErrorShader	Hidden/InternalErrorShader
+High	高
+Higher feels glossier.	数值越高越有光泽。
+Higher numbers make the tag a stronger match.	数值越高，标签匹配越强。
+Higher resolutions give sharper shadows and use more memory.	分辨率越高阴影越锐利，占用内存也越多。
+Highlight	高亮
+Highlight border	高光边框
+Highlight color	高光颜色
+Highlight size: 	高光大小：
+Highlight strength	高光强度
+Highlight strength: 	高光强度：
+Highlight swatch	高光色块
+Honeybee Cotton	蜜蜂棉布
+Horizontal distance	水平距离
+How far real-time shadows are drawn.	实时阴影的绘制距离。
+How much the room reflects.	环境反射的程度。
+Hummingbird Patch	蜂鸟补丁
+Hydrangea Blue Gradient 1 Silk	绣球蓝渐变1真丝
+Hydrangea Blue Gradient 2 Silk	绣球蓝渐变2真丝
+Hydrangea Blue Gradient 3 Silk	绣球蓝渐变3真丝
+Hydrangea Blue Gradient 4 Silk	绣球蓝渐变4真丝
+I Love Purple Plaid Cotton	我爱紫色格纹棉布
+I love it. Thank you!	我很喜欢，谢谢！
+Ice Palace Cotton	冰雪宫殿棉布
+Icon	图标
+Icon Texture	图标贴图
+Icon selected	已选择图标
+Image	图片
+Image dimensions are invalid.	图像尺寸无效。
+Image dimensions are too large.	图像尺寸过大。
+Image dimensions do not match its header.	图像尺寸与其文件头不一致。
+Image is truncated.	图像已被截断。
+Image preview	图像预览
+Images	图片
+Import Dress	导入连衣裙
+Import Unity package	导入 Unity 包
+Import an accessory	导入配饰
+Imported accessory	已导入配饰
+Imported accessory preview	已导入配饰预览
+Imported asset conflicts with an existing file.	导入的资源与现有文件冲突。
+Imported model is too large.	导入的模型过大。
+Included: 	已包含：
+Incomplete coordinate.	坐标不完整。
+Indigo Blue Gradient 1 Silk	靛蓝渐变1真丝
+Indigo Blue Gradient 2 Silk	靛蓝渐变2真丝
+Indigo Blue Gradient 3 Silk	靛蓝渐变3真丝
+Indigo Blue Gradient 4 Silk	靛蓝渐变4真丝
+Indigo Mermaid	靛蓝美人鱼
+Input	输入
+Input claim already registered: 	输入占用已注册： 
+Install Reduced Effects	安装 Reduced Effects
+Install a mod from a path	从路径安装模组
+Install confirmation	安装确认
+Install confirmation panel	安装确认面板
+Install mod choice	安装模组选择
+Install mod window	安装模组窗口
+Install pack	安装资源包
+Install problem	安装问题
+Install problem paper	安装问题纸张
+Install the Reduced Effects mod for sewing view, guide colors and motion options.	安装 Reduced Effects 模组以获得缝纫视角、辅助线颜色和动态选项。
+Install this mod?	安装此模组？
+Install this plugin?	安装此插件？
+Install/Update Mod	安装/更新模组
+Installed	已安装
+Installed 	已安装 
+Installed startup compatibility. Plugin load order will apply on the next launch.	已安装启动兼容。插件加载顺序将在下次启动时生效。
+Installing mod	正在安装模组
+Int	整数
+Invalid	无效
+Invalid 	无效 
+Invalid FBX coordinate.	无效的 FBX 坐标。
+Invalid FBX importer output.	无效的 FBX 导入器输出。
+Invalid FBX output count.	无效的 FBX 输出数量。
+Invalid JPEG image.	JPEG 图像无效。
+Invalid PNG image.	PNG 图像无效。
+Invalid Unity archive size.	无效的 Unity 归档大小。
+Invalid accessory creator asset folder.	无效的配饰创作者资源文件夹。
+Invalid art selector text.	美术选择器文本无效。
+Invalid attribution	署名无效
+Invalid attribution 	无效的鸣谢 
+Invalid basePanel.	无效的 basePanel。
+Invalid baseVariant.	无效的 baseVariant。
+Invalid cached mesh coordinate.	缓存的网格坐标无效。
+Invalid coordinate.	无效坐标。
+Invalid creator folder.	无效的创作者文件夹。
+Invalid dress content identity.	无效的服装内容标识。
+Invalid dress content root.	无效的服装内容根目录。
+Invalid face index.	无效的面索引。
+Invalid garment mod ID or local ID.	无效的服装模组ID或本地ID。
+Invalid garment mod ID.	无效的服装模组ID。
+Invalid grain direction on a garment panel.	服装面片的丝缕方向无效。
+Invalid import path.	无效的导入路径。
+Invalid material number.	无效的材质编号。
+Invalid mod id in 	模组ID无效： 
+Invalid mod id.	无效的模组ID。
+Invalid or duplicate accessory tag 	无效或重复的配饰标签 
+Invalid or duplicate dress content definition.	无效或重复的服装内容定义。
+Invalid or duplicate language code/name: 	语言代码/名称无效或重复: 
+Invalid or duplicate localization entry in 	本地化条目无效或重复，位于 
+Invalid or duplicate localization table.	本地化表无效或重复。
+Invalid original content identity.	无效的原始内容标识。
+Invalid pack ID in mod.json.	mod.json 中的资源包 ID 无效。
+Invalid story pack ID.	无效的剧情包ID。
+Invalid story pack folder.	无效的剧情包文件夹。
+Invalid tag or weight: 	无效的标签或权重： 
+Invalid texture options.	纹理选项无效。
+Iphis Gradient Cotton	彩虹渐变棉布（跨性别·伊菲斯）
+It will be ready after restarting Dressmaker.	重启 针影裁梦 后即可就绪。
+Item ID	物品 ID
+Ivory Daisy Scalloped Lace	象牙白雏菊扇边蕾丝
+Ivory Fan Border Lace	象牙白扇贝边蕾丝
+Ivory Lace on Tulle	象牙白薄纱蕾丝
+Ivory Quatrefoil Medallion Lace	象牙白四叶纹章蕾丝
+Ivory Quilted Satin	象牙白绗缝缎
+Ivory Silk Chiffon	象牙白真丝雪纺
+Ivory Vine Lace on Tulle	象牙白藤蔓薄纱蕾丝
+Jacaranda Purple Gradient 1 Silk	蓝花楹紫渐变1真丝
+Jacaranda Purple Gradient 2 Silk	蓝花楹紫渐变2真丝
+Jacaranda Purple Gradient 3 Silk	蓝花楹紫渐变3真丝
+Jacaranda Purple Gradient 4 Silk	蓝花楹紫渐变4真丝
+Keep a copy	保留副本
+Keep original gloss	保留原始光泽
+Keep original highlight	保留原始高光
+Keep original tint	保留原始色调
+Keep small previews of pack fabric/accessory images and load originals when visible. Restart after changing this.	为资源包的布料/配饰图像保留小预览图，可见时再加载原图。更改后需重启。
+Keep small previews; load full images when used. Restart after changing.	保留小预览图；使用时加载完整图像。更改后需重启。
+Keep the SheerFabrics files together in one folder: 	请把 SheerFabrics 文件放在同一个文件夹中： 
+Keep the original pack ID when editing a pack.	编辑资源包时请保留原资源包ID。
+KeepPatternWarningsStill	保留纸样警告
+Key	按键
+Keybind already registered: 	快捷键已注册: 
+Keybinds	快捷键
+Kiss Mermaid	亲吻美人鱼
+Knob	旋钮
+Label	标签
+Lace	蕾丝
+Lace Fabrics NO AI	蕾丝布料（非 AI）
+Lace in	蕾丝（未命名）
+Lace in  Lilac	丁香紫蕾丝镶边
+Lace in Aqua Green	水绿蕾丝
+Lace in Baby Pink	婴儿粉蕾丝
+Lace in Barbie Pink	芭比粉蕾丝
+Lace in Beer	啤酒色蕾丝
+Lace in Blossom Pink	粉色蕾丝
+Lace in Blue	蓝色蕾丝
+Lace in Blush	绯红蕾丝
+Lace in Carmine Red	洋红蕾丝
+Lace in Carnation Pink	康乃馨粉色蕾丝镶边
+Lace in Carrot	胡萝卜橙蕾丝
+Lace in Charcol	炭灰色蕾丝
+Lace in Coffee	咖啡蕾丝
+Lace in Coral	珊瑚蕾丝
+Lace in Cotton Candy	棉花糖蕾丝
+Lace in Dark Blue	深蓝蕾丝
+Lace in Deep Purple	深紫蕾丝
+Lace in Dim Grey	暗灰色蕾丝
+Lace in EggShell	蛋壳白蕾丝
+Lace in Floral White	花卉白蕾丝
+Lace in Grey	灰色蕾丝
+Lace in Hot Pink	霓虹粉蕾丝
+Lace in Indigo	靛蓝蕾丝
+Lace in Jade	玉绿蕾丝
+Lace in Khaki	卡其蕾丝
+Lace in Lavender Purple	薰衣草紫蕾丝
+Lace in Lavender White	薰衣草白蕾丝
+Lace in Lemon	柠檬黄蕾丝
+Lace in Light Brown	浅棕蕾丝
+Lace in Light Green	浅绿蕾丝
+Lace in Light Grey	浅灰色蕾丝
+Lace in Light Pink	浅粉蕾丝
+Lace in Light Purple	浅紫蕾丝
+Lace in Light Yellow	浅黄蕾丝
+Lace in Lights Blue	浅蓝蕾丝
+Lace in Lime	青柠蕾丝
+Lace in Lotus Green	莲绿蕾丝
+Lace in Macaroni and Cheese	芝士通心粉蕾丝
+Lace in Maroon	栗红蕾丝
+Lace in Mint	薄荷绿蕾丝
+Lace in Mint Cream	薄荷奶油蕾丝
+Lace in Mustard	芥末黄蕾丝
+Lace in Navy Blue	海军蓝蕾丝
+Lace in Neon Purple	Neon紫色蕾丝镶边
+Lace in Off White	米白蕾丝
+Lace in Olive	橄榄绿蕾丝
+Lace in Onyx	缟玛瑙黑蕾丝
+Lace in Papaya	木瓜色蕾丝
+Lace in Pastel Pink	淡粉蕾丝
+Lace in Peach Pink	桃粉蕾丝
+Lace in Pearl White	珍珠白蕾丝
+Lace in Periwinkle Pink	长春花粉蕾丝
+Lace in Pink	粉色蕾丝
+Lace in Pure Black	纯黑色蕾丝
+Lace in Purple	紫罗兰蕾丝
+Lace in Raspberry	树莓蕾丝
+Lace in Red	红色蕾丝
+Lace in Red Blood	血红蕾丝
+Lace in Rose Purple	玫紫蕾丝
+Lace in SaddleBrown	马鞍棕蕾丝
+Lace in Safety Orange	安全橙蕾丝
+Lace in Seafoam Green	海沫绿蕾丝
+Lace in Sepia	深褐蕾丝
+Lace in Sienna	赭石蕾丝
+Lace in Silver	银色蕾丝
+Lace in Slime Green	史莱姆绿蕾丝
+Lace in Tan	棕褐蕾丝
+Lace in Tea Green	茶绿蕾丝
+Lace in Teal	青蓝蕾丝
+Lace in Terracotta	陶土蕾丝
+Lace in Thistle	蓟紫色蕾丝
+Lace in Toffee	太妃糖蕾丝
+Lace in Valentine Red	情人红蕾丝
+Lace in Vanilla	香草色蕾丝
+Lace in Violet	紫罗兰蕾丝
+Lace in White	白色蕾丝
+Lace in White Smoke	烟白蕾丝
+Lace in cORN	玉米黄蕾丝
+Lace on Pink Tulle	粉色薄纱蕾丝
+Lace on Red Tulle	红色薄纱蕾丝
+Language	语言
+Language pack has too many files or is too large.	语言包文件过多或体积过大。
+Large fabric preview	大图布料预览
+Larger patterns may look blurry.	较大的图案可能会显得模糊。
+Later	稍后
+Lavender Cathedral Cotton	薰衣草教堂棉布
+Lavender Mermaid	薰衣草美人鱼
+Lavender Silk Chiffon	薰衣草真丝雪纺
+Lavender Sky Watercolor Cotton	薰衣草天空水彩棉布
+Layered Tutu Skirt	层叠蓬蓬裙
+Leafy Cotton	叶纹棉布
+Leaves & Sunflowers Silk	叶片与向日葵真丝
+Left	左
+Left 	左 
+Left Ctrl	左 Ctrl
+Left arrow	方向键左
+Left mouse	鼠标左键
+LeftShift	左 Shift
+Lerp	线性插值
+Let the current placement animation finish, then try again.	请等待当前摆放动画结束，然后重试。
+Level 50 and all items. Makes a save backup first.	50 级和所有物品。会先创建存档备份。
+Level 50 and all normal items unlocked. Saved, with a backup in Mod Manager.	已解锁 50 级与全部普通物品。已保存，并在模组管理器中留有备份。
+License	许可协议
+License dialog confirmation button is missing.	缺少许可证对话框的确认按钮。
+License file is larger than 1 MB: 	许可文件超过 1 MB： 
+License header template	许可证标题模板
+Light Brown Exposed Stitches Trim	浅棕明线镶边
+Light Brown Seam Line Trim	浅棕缝线镶边
+Light Coral Cotton	浅珊瑚棉布
+Light Green Exposed Stitches Trim	浅绿明线镶边
+Light Green Seam Line Trim	浅绿缝线镶边
+Light Grey Exposed Stitches Trim	浅灰明线镶边
+Light Grey Seam Line Trim	浅灰缝线镶边
+Light Ocean Blue Exposed Stitches Trim	浅色海洋蓝色明线镶边
+Light Ocean Blue Seam Line Trim	浅色海洋蓝色缝线镶边
+Light Orange Exposed Stitches Trim	浅色橙色明线镶边
+Light Orange Seam Line Trim	浅色橙色缝线镶边
+Light Pink Exposed Stitches Trim	浅粉明线镶边
+Light Pink Seam Line Trim	浅粉缝线镶边
+Light Purple Exposed Stitches Trim	浅紫明线镶边
+Light Purple Seam Line Trim	浅紫缝线镶边
+Light Red Exposed Stitches Trim	浅色红色明线镶边
+Light Red Seam Line Trim	浅色红色缝线镶边
+Light Sky Blue Exposed Stitches Trim	浅色天空蓝色明线镶边
+Light Sky Blue Seam Line Trim	浅色天空蓝色缝线镶边
+Light Yellow Exposed Stitches Trim	浅黄明线镶边
+Light Yellow Seam Line Trim	浅黄缝线镶边
+Light at glancing angles.	掠射角下的光照。
+Limenade Cotton	柠檬水棉布
+Linen	亚麻
+Linked files are not supported.	不支持链接文件。
+Linked folders	链接的文件夹
+Linked folders are not supported.	不支持链接文件夹。
+Linked mod folders must be managed manually.	链接的模组文件夹需手动管理。
+List available commands.	列出可用命令。
+List scene and character art in BepInEx/config/DressmakerMods/art-reference.json.	请在 BepInEx/config/DressmakerMods/art-reference.json 中列出场景和角色美术。
+Little Blossoms Cotton	小小花朵棉布
+Live fabric preview	实时布料预览
+Load	加载
+Load a save before accessing plugin save data.	请先加载存档再访问插件存档数据。
+Load a save before unlocking everything.	请先加载存档，再解锁全部内容。
+Load textures as needed	按需加载纹理
+Load your save to use the Emporium cloth preview.	加载存档以使用商店布料预览。
+Loaded accessory	已加载配饰
+Loaded accessory 	已加载配饰 
+Loaded dress template	已加载服装模板
+Loaded dress template 	已加载服装模板 
+Loaded fabric	已加载布料
+Loaded fabric 	已加载布料 
+Loaded garment component	已加载服装部件
+Loaded garment component 	已加载服装部件 
+Loaded localization	已加载本地化
+Loaded localization 	已加载本地化 
+Loaded plugin	已加载插件
+Loaded retained garment definitions for 	已加载保留的服装定义： 
+Loading problems	加载问题
+Loading problems (	加载问题（
+Localization file contains no tables.	本地化文件不包含任何表。
+Localization file format or locale does not match mod.json: 	本地化文件格式或区域设置与 mod.json 不匹配: 
+Localization file is missing or larger than 16 MB.	本地化文件缺失或超过 16 MB。
+Localization folder is missing.	本地化文件夹缺失。
+Location	位置
+Locked axis	锁定轴
+Log	日志
+Love Spectrum Cotton	爱之光谱棉布
+Low	低
+Lower values soften the scene; menus stay sharp.	数值越低画面越柔和；菜单保持清晰。
+Luminous Mermaid	夜光美人鱼
+MSAA samples: 0 keeps the game's setting, 1 disables MSAA. Only affects cameras/renderers which support MSAA.	MSAA采样数：0 沿用游戏设置，1 关闭MSAA。仅影响支持MSAA的相机/渲染器。
+Made a recovery backup before removing unused missing items: 	移除未使用的缺失物品前已创建恢复备份： 
+Made automatic save backup	已创建自动存档备份
+Made automatic save backup 	已创建自动存档备份 
+Made permanent first-run save backup 	已创建首次运行的永久存档备份 
+Main packs ready	主资源包已就绪
+MainTextureProperty must name a texture property in this shader.	MainTextureProperty 必须指定此着色器中的纹理属性。
+Make a fabric pack	制作布料包
+Make an accessory	制作配饰
+Make an accessory pack	制作配饰包
+Make fabrics	制作布料
+Make the fabric more matte or glossy.	让布料更哑光或更有光泽。
+Make, install and ZIP pack	制作、安装并打包为 ZIP
+Makes the weave look raised.	让织纹看起来更立体。
+Malformed plugin save data.	插件存档数据格式错误。
+Malformed plugin save entries.	插件存档条目格式错误。
+Malformed plugin save entry: 	插件存档条目格式错误： 
+Manager active button	管理器激活按钮
+Manager button	管理器按钮
+Manager card	管理器卡片
+Manager field	管理器输入框
+Manager message	管理器消息
+Manager page	管理器页面
+Manager page surface	管理器页面背景
+Manager slider knob	管理器滑块
+Mannequin	人台
+Marker	标记
+Marker face	标记面
+Masks	遮罩
+Material	材质
+Material art needs textureProperty.	材质美术需要 textureProperty。
+Material choices	材质选择
+Material panel	材质面板
+Material preview	材质预览
+Material results	材质结果
+Material search	材质搜索
+Material slot	材质槽
+Material slot 	材质槽位 
+Material:	材质：
+Matte	哑光
+Max	最大
+Maximum bust, waist and hips, in centimetres.	最大胸围、腰围和臀围，单位为厘米。
+Maximum mannequin bust, waist and hip measurement.	人台的最大胸围、腰围和臀围尺寸。
+Maximum mannequin size	人台最大尺寸
+Medium	中
+Meg's Autumn Woodlands Collection	Meg 的秋日林地系列
+Meg's Autumn Woodlands: Brown Butter	Meg秋日林地：棕黄油
+Meg's Autumn Woodlands: Brown Mushroom	Meg秋日林地：棕蘑菇
+Meg's Autumn Woodlands: Burnt Maple	Meg秋日林地：焦枫
+Meg's Autumn Woodlands: Butter Gradient	Meg秋日林地：黄油渐变
+Meg's Autumn Woodlands: Butter Plaid	Meg秋日林地：黄油格纹
+Meg's Autumn Woodlands: Buttermilk	Meg秋日林地：酪乳
+Meg's Autumn Woodlands: Chocolate	Meg秋日林地：巧克力
+Meg's Autumn Woodlands: Chocolate Gradient	Meg秋日林地：巧克力渐变
+Meg's Autumn Woodlands: Chocolate Plaid	Meg秋日林地：巧克力格纹
+Meg's Autumn Woodlands: Fawn	Meg秋日林地：浅褐
+Meg's Autumn Woodlands: Fox	Meg秋日林地：狐狸
+Meg's Autumn Woodlands: Maple	Meg秋日林地：枫叶
+Meg's Autumn Woodlands: Maple Cream	Meg秋日林地：枫糖奶霜
+Meg's Autumn Woodlands: Maple Gradient	Meg秋日林地：枫色渐变
+Meg's Autumn Woodlands: Maple Plaid	Meg秋日林地：枫色格纹
+Meg's Autumn Woodlands: Milk & Cocoa	Meg秋日林地：牛奶可可
+Meg's Autumn Woodlands: Oak	Meg秋日林地：橡木
+Meg's Autumn Woodlands: Sunflower	Meg秋日林地：向日葵
+Meg's Autumn Woodlands: Wolf	Meg秋日林地：狼
+Meg's Autumn Woodlands:: Cypress	Meg秋日林地：柏木
+Meg’s Autumn Woodlands: Chanterelle	Meg秋日林地：鸡油菌
+Menu	菜单
+Menu/Language	语言
+Menu/ModManager	模组管理器
+Menu/ModSettings	模组设置
+Menu/OpenSourceLicenses	开源许可
+Menu/border	菜单/边框
+Mermaid Fantasy	美人鱼幻境
+Mesh	网格
+Mesh part	网格部件
+Mesh part 	网格部件 
+Message panel	消息面板
+Middle	中键
+Middle mouse	鼠标中键
+Midnight Silver Shot Organza	午夜银闪光欧根纱
+Mimic material properties of	模仿以下项的材质属性
+Minimum mannequin bust, waist and hip measurement.	人台的最小胸围、腰围和臀围尺寸。
+Minimum mannequin size	人台最小尺寸
+Minty Mosaic Cotton	薄荷马赛克棉布
+Miss Mushroom Patch	小姐蘑菇补丁
+Missing	缺失
+Missing 	缺少 
+Missing Accessory	配饰缺失
+Missing Accessory 	缺失配饰 
+Missing Fabric	布料缺失
+Missing Fabric 	缺失布料 
+Missing Pattern	纸样缺失
+Missing Pattern 	缺失纸样 
+Missing accessory (restore mod)	缺少配饰（恢复模组）
+Missing fabric (restore mod)	缺少布料（恢复模组）
+Missing garment (restore mod)	缺少服装（恢复模组）
+Missing material — choose	缺少材质 — 请选择
+Missing patterns	缺失纸样
+Missing, linked, or oversized dress asset: 	服装资源缺失、为链接或过大： 
+Missing-item cleanup could not check all references; keeping placeholders: 	缺失物品清理无法检查所有引用；保留占位项： 
+Mist Mermaid	雾色美人鱼
+Mod	模组
+Mod 1	模组 1
+Mod Discord	模组 Discord
+Mod Discord button template	模组 Discord 按钮模板
+Mod Loader	模组加载器
+Mod Loader keybinds are not ready yet.	模组加载器的快捷键尚未就绪。
+Mod Manager	模组管理器
+Mod Manager 	模组管理器 
+Mod Manager DLL	模组管理器 DLL
+Mod Manager license header	模组管理器许可证标题
+Mod Manager title plaque	模组管理器标题牌
+Mod Model	模组模型
+Mod Settings	模组设置
+Mod Settings Window	模组设置窗口
+Mod content ready	模组内容已就绪
+Mod list	模组列表
+Mod list scrollbar	模组列表滚动条
+Mod manager paper	模组管理器纸张
+Mod manager: 	模组管理器： 
+Mod row	模组行
+Mod row 	模组行 
+Mod rows	模组行
+Mod shortcuts	模组快捷键
+Mod support	模组支持
+Mod support notice	模组支持提示
+Mod-local ID; combined with mod ID to form a stable internal name and save GUID.	模组内局部 ID；与模组 ID 组合成稳定的内部名称与存档 GUID。
+ModManager	模组管理器
+ModSettings	模组设置
+Modded	模组
+Modded tag GUID is already in use.	Modded 标签 GUID 已被使用。
+Model exceeds 131,070 triangles.	模型三角形超过 131,070 个。
+Model exceeds 65,535 vertices after splitting seams.	拆分接缝后模型顶点超过 65,535 个。
+Model must be an OBJ or JSON mesh inside its mod folder: 	模型必须是模组文件夹内的 OBJ 或 JSON 网格： 
+Mods	模组
+Mods and Unity packages	模组与 Unity 包
+Monet Mermaid	莫奈美人鱼
+Moonlight Mermaid	月光美人鱼
+More matte	更哑光
+Mosaic Tiles Cotton	马赛克砖纹棉布
+Mouse	鼠标
+Move past garment edges. Raise/lower without the usual cap.	可越过服装边缘移动。升降不受通常限制。
+Movement shortcuts can be changed in Keybinds.	移动快捷键可在「快捷键」中更改。
+MultiPlace	多重放置
+Mushroom Cluster Patch	蘑菇簇补丁
+Mushroom Friends Patch	蘑菇朋友补丁
+Mustard Lace on Tulle	芥黄薄纱蕾丝
+Mustard Yellow Cotton	芥末黄棉布
+My Accessory Pack	我的配饰包
+My Embroidery Patch	我的刺绣布贴
+My Fabric Pack	我的布料包
+My New Fabric	我的新布料
+My New Fabric 	我的新布料 
+My mod packs	我的模组包
+NOTICE	公告
+Navy Silk Chiffon	藏青真丝雪纺
+Need another accessory for symmetry	需要另一件配饰才能对称
+Nested prefabs have duplicate mesh names. Import their source FBX separately.	嵌套预制体存在重复的网格名称。请单独导入其源 FBX。
+Neutral and current mannequins exported. Reload mannequin in Fit Studio. Fit to the neutral shape once; the game handles resizing.	中性人台和当前人台已导出。请在试衣间重新加载人台。先适配一次中性体型，其余缩放由游戏处理。
+New fabric	新建布料
+New pack	新建资源包
+Newer saved data for 	以下对象的已保存数据更新 
+Next	下一个
+Next category	下一个类别
+Night Mermaid	夜美人鱼
+No Dressmaker save files were found to back up.	未找到可备份的针影裁梦存档文件。
+No accessories yet. Add a PNG patch or import a Unity package.	还没有配饰。请添加 PNG 补丁或导入 Unity 包。
+No accessory prefab consumers found in 	未找到配饰预制体使用方，位于 
+No backups yet. Copies are made on launch or before a save.	暂无备份。副本会在启动时或存档前创建。
+No banner	无横幅
+No continuous dress surface for mirrored trim	没有连续的连衣裙表面可用于镜像饰边
+No credits listed.	未列出鸣谢信息。
+No dress panel on the opposite side	对侧没有连衣裙裁片
+No dress surface at snapped position	吸附位置处没有连衣裙表面
+No fabric material assignment found in 	未找到布料材质分配，位于 
+No fabrics added yet. Add the first fabric to this pack.	尚未添加布料。向此资源包添加第一种布料。
+No icon	无图标
+No image chosen	未选择图片
+No in-game fabrics match that search.	没有游戏内布料匹配该搜索。
+No limit	无限制
+No map	无贴图
+No matching files in this folder.	此文件夹中没有匹配的文件。
+No missing patterns found in the current dress.	当前连衣裙中没有发现缺失的纸样。
+No mod packs installed yet.	尚未安装任何模组包。
+No packs match that search.	没有资源包匹配该搜索。
+No patterns returned. Wait for cutting or seam ripping to finish, then try again.	未返还任何纸样。请等待裁剪或拆线完成，然后重试。
+No supported content in mod.json.	mod.json 中没有支持的内容。
+No tags chosen yet.	尚未选择标签。
+No tint	无色调
+No version	无版本
+Normal	普通
+Normal items unlocked and saved. Re-enter the shop to refresh it. A save backup was made.	普通物品已解锁并保存。请重新进入商店以刷新。已创建存档备份。
+Not installed	未安装
+Notes (optional)	备注（可选）
+NoticeAcknowledged	已确认公告
+Nudge	微调
+NudgeDown	向下微调
+NudgeLeft	向左微调
+NudgeRight	向右微调
+NudgeUp	向上微调
+Nursery Mermaid	童趣美人鱼
+OBJ contains no polygon faces.	OBJ 不包含多边形面。
+OBJ contains too many coordinates.	OBJ 包含过多坐标。
+OBJ line 	OBJ 第 
+Oaken Cotton	橡木棉布
+Ocean Bias Gradient Silk	海洋斜裁渐变真丝
+Ocean Blue Exposed Stitches Trim	海洋蓝色明线镶边
+Ocean Blue Seam Line Trim	海洋蓝色缝线镶边
+Off	关闭
+Offset X	偏移 X
+Offset Y	偏移 Y
+One of the mod's JSON files has a formatting error. The details below may include the line and field.	该模组的某个 JSON 文件存在格式错误。下面的详情可能包含行号和字段。
+Opacity	不透明度
+Opal Watercolor Cotton	蛋白石水彩棉布
+Open French Floral Black Lace	镂空法式黑花蕾丝
+Open a dress before recovering patterns.	请先打开一件连衣裙，再恢复纸样。
+Open an unfinished dress on the mannequin first.	请先在人台上打开未完成的连衣裙。
+Open backup folder	打开备份文件夹
+Open folder	打开文件夹
+Open the accessory importer after the game has loaded.	请在游戏加载后打开配饰导入器。
+Open the cutting room or mannequin view to recover patterns.	请打开裁剪室或人台视图以恢复纸样。
+Open the mannequin room, then export the fitting reference again.	请打开人台房间，然后重新导出试穿参考。
+Open your dress on the mannequin first.	请先在人台上打开你的连衣裙。
+OpenSourceBacking	开源许可
+OpenSourceLicenses	开源许可
+Opened canvas mod manager from 	已从以下位置打开画布模组管理器 
+Optional HTTPS Discord invite. Empty opens the Nexus mod page instead.	可选的 HTTPS Discord 邀请链接。留空则改为打开 Nexus 模组页面。
+Optional internal notes.	可选的内部备注。
+Optional shortcut that copies omitted values from one existing fabric.	可选快捷方式：从一种现有布料复制省略的值。
+Options	选项
+Options control is missing: 	缺少选项控件: 
+Options text is missing.	选项文本缺失。
+Orange	橙色
+Orange Exposed Stitches Trim	橙色明线镶边
+Orange Gingham Wool	橙色方格布羊毛呢
+Orange Gradient Granny Squares	橙色渐变祖母方格
+Orange Mermaid	橙色美人鱼
+Orange Seam Line Trim	橙色缝线镶边
+Original	原始
+Original author	原作者
+Original properties	原始属性
+Ornamental Purple Silk	花饰紫色真丝
+Ornamental border	装饰边框
+Ornate Floral Cotton	华丽花卉棉布
+Ornate Rose Silk	华丽玫瑰真丝
+Other	其他
+PNG or JPEG path relative to the mod folder (Fabric.texture and Material.mainTexture). Optional with baseFabric, which then keeps its own image.	相对于模组文件夹的 PNG 或 JPEG 路径（Fabric.texture 与 Material.mainTexture）。与 baseFabric 一起使用时可省略，此时保留其自身图像。
+PNG or JPG image not found: 	未找到 PNG 或 JPG 图像: 
+PNG patch	PNG 贴片
+POSIX path of (choose file with prompt "Choose a mod or Unity package")	POSIX path of (choose file with prompt "选择模组或 Unity 包")
+POSIX path of (choose file with prompt "Choose an accessory Unity package")	POSIX path of (choose file with prompt "选择配饰 Unity 包")
+POSIX path of (choose file with prompt "Choose an image")	POSIX path of (choose file with prompt "选择图像")
+POSIX path of (choose folder with prompt "Choose a mod pack folder")	POSIX path of (choose folder with prompt "选择模组包文件夹")
+Pack	资源包
+Pack 	资源包 
+Pack ID	资源包 ID
+Pack accessories	打包配饰
+Pack banner	资源包横幅
+Pack banner (optional)	资源包横幅（可选）
+Pack banner must be a PNG or JPEG file beside mod.json.	资源包横幅必须是 mod.json 旁的 PNG 或 JPEG 文件。
+Pack banner must be an image under 4 MB.	资源包横幅必须是小于 4 MB 的图像。
+Pack credits	资源包鸣谢
+Pack description	资源包描述
+Pack description must be at most 400 characters on one line.	资源包描述须在一行内且不超过 400 个字符。
+Pack details	资源包详情
+Pack fabrics	资源包布料
+Pack file escapes its folder.	资源包文件超出了其文件夹。
+Pack form divider	资源包表单分隔线
+Pack icon	资源包图标
+Pack icon (optional)	资源包图标（可选）
+Pack icon display	资源包图标显示
+Pack icon must be a PNG or JPEG file beside mod.json.	资源包图标必须是 mod.json 旁的 PNG 或 JPEG 文件。
+Pack icon must be an image under 4 MB.	资源包图标必须是小于 4 MB 的图像。
+Pack installed. Shareable ZIP: 	资源包已安装。可分享的 ZIP: 
+Pack installed. ZIP: 	资源包已安装。ZIP: 
+Pack location changed. Refresh the list.	资源包位置已更改。请刷新列表。
+Pack name	资源包名称
+Pack name must be 1–100 characters.	资源包名称须为 1–100 个字符。
+Pack options	资源包选项
+Pack path	资源包路径
+Pack path panel	资源包路径面板
+Pack: 	资源包： 
+Package contains too much geometry. Import a smaller package.	资源包几何体过多。请导入更小的资源包。
+Page	页面
+Page 	页 
+Palette categories	调色板类别
+Pan Gradient Cotton	彩虹渐变棉布（泛性恋·潘）
+Panel	面板
+Panel needs a native or custom mannequin mesh.	面片需要原生或自定义人台网格。
+Panel needs nonzero UV and 3D triangle area: 	面片需要非零的 UV 和 3D 三角形面积： 
+Panel needs one UV per vertex and at least one triangle: 	面片需要每个顶点一个 UV 以及至少一个三角形： 
+Paper	纸张
+Paper input	纸张输入框
+Paste a ZIP, DLL, or mod folder path.	粘贴 ZIP、DLL 或模组文件夹路径。
+Pastel Blue Lace on Tulle	淡蓝薄纱蕾丝
+Pastel Dream Watercolor Cotton	粉彩梦境水彩棉布
+Pastel Floral Cotton	粉彩花卉棉布
+Pastel Pink Bows Cotton	粉彩蝴蝶结棉布
+Pastel Pink Hearts Cotton	粉彩爱心棉布
+Pastel Pink Lace on Tulle	淡粉薄纱蕾丝
+Pastel Purple Abstract Cotton	淡紫抽象棉布
+Pastel Purple Butterflies Cotton	淡紫蝴蝶棉布
+Pastel Purple Hearts Cotton	淡紫心形棉布
+Pastel Purple Lace on Tulle	淡紫薄纱蕾丝
+Pastel Purple Striped Cotton	淡紫条纹棉布
+Pastel Yellow Lace on Tulle	淡黄薄纱蕾丝
+Patch added. Click Pack when you are ready to save.	补丁已添加。准备好保存时点击「打包」。
+Patch details	贴片详情
+Patch face	补丁正面
+Patch icon face	补丁图标正面
+Patch image area	贴片图像区域
+Patch mask	补丁遮罩
+Patch note divider	贴片说明分隔线
+Patch preview	贴片预览
+Patch preview divider	贴片预览分隔线
+Patch price is outside the supported range.	补丁价格超出支持范围。
+Patched Green Cotton	拼布绿色棉布
+Patches	补丁
+Path means a trim placed along pins; single means one placed item.	Path 表示沿针脚放置的花边；single 表示放置单个物件。
+Pattern inventory is unavailable in this game version.	此游戏版本无法使用纸样库存。
+Pattern recovery failed: 	纸样恢复失败： 
+Pattern size	图案大小
+Pause	暂停
+Pause / options	暂停 / 选项
+Peach Silk Chiffon	蜜桃真丝雪纺
+Peacock Shot Organza	孔雀蓝闪光欧根纱
+Pencil RGBA values must be finite and between 0 and 1.	铅笔 RGBA 值必须为有限值，且介于 0 与 1 之间。
+Pencil category	铅笔分类
+Pencil category id and name must be text.	铅笔类别的 id 与 name 必须是文本。
+Pencil category names must contain 1 to 60 readable characters.	铅笔类别名称需包含 1 到 60 个可读字符。
+Pencil color ready callback failed: 	铅笔颜色就绪回调失败: 
+Pencil colors	铅笔颜色
+Pencil colors must use #RRGGBB or #RRGGBBAA, for example #F4A7B9.	铅笔颜色必须使用 #RRGGBB 或 #RRGGBBAA，例如 #F4A7B9。
+Percentages must be from 0 to 100.	百分比必须在 0 到 100 之间。
+Perfect cutting quality in any grain direction.	任何纹理方向都能完美裁剪。
+Performance	性能
+Pictures	图片
+Pink	粉色
+Pink & Brown Cupcakes Cotton	粉棕纸杯蛋糕棉布
+Pink Cherry Cotton	粉色樱桃棉布
+Pink Dahlia Silk	粉色大丽花真丝
+Pink Damask Silk	粉色提花真丝
+Pink Dawn Watercolor Cotton	粉色黎明水彩棉布
+Pink Diagonal Granny Squares	粉色斜纹祖母方格
+Pink Donuts Cotton	粉色甜甜圈棉布
+Pink Exposed Stitches Trim	粉色明线镶边
+Pink Fabrics Collection	粉色布料系列
+Pink Flower Diamonds Silk	粉花菱纹真丝
+Pink Glow Watercolor Cotton	粉色微光水彩棉布
+Pink Gradient Granny Squares	粉色渐变祖母方格
+Pink Horizon Watercolor Cotton	粉色地平线水彩棉布
+Pink Leaves Cotton	粉叶棉布
+Pink Marbled Silk	粉色大理石纹真丝
+Pink Mermaid	粉色美人鱼
+Pink Mischief Cotton	粉色顽皮棉布
+Pink Peonies Cotton	粉色牡丹棉布
+Pink Petals Cotton	粉色花瓣棉布
+Pink Roses Silk	粉色玫瑰真丝
+Pink Scallops Cotton	粉色扇纹棉布
+Pink Seam Line Trim	粉色缝线镶边
+Pink Striped Heart Cotton	粉色条纹爱心棉布
+Pink and Brown Granny Squares	粉色与棕色祖母方格
+Pins	珠针
+Place a mirrored second accessory when enough of the item or trim remains in inventory.	当库存中该物品或饰边足够时，放置镜像的第二件配饰。
+Place accessories beyond garment edges and remove accessory raise/lower limits.	允许把配饰放在服装边缘之外，并取消配饰的升降限制。
+Place multiple	连续摆放
+Place symmetrically	对称放置
+Placement rule already registered: 	摆放规则已注册: 
+Plaid Lime Green Cotton	格纹青柠绿色棉布
+Plaid Rose Silk	格纹玫瑰真丝
+Plain material	纯色材质
+Plain material (no copied properties)	纯色材质（无复制的属性）
+Plain material selected for this fabric.	已为该布料选择素色材质。
+Plant Crystal Patch	植物水晶补丁
+Playing with mods	使用模组游玩
+Plugin	插件
+Plugin 	插件 
+Plugin DLL is too large.	插件 DLL 过大。
+Plugin ZIP contains an unexpected file.	插件 ZIP 包含意外文件。
+Plugin ZIP contains an unsafe path or duplicate file.	插件 ZIP 包含不安全路径或重复文件。
+Plugin ZIP has invalid mod.json.	插件 ZIP 的 mod.json 无效。
+Plugin ZIP has too many files or is too large.	插件 ZIP 文件过多或过大。
+Plugin ZIP manifest does not match its DLL.	插件 ZIP 清单与其 DLL 不匹配。
+Plugin ZIP must contain exactly one managed DLL, no larger than 32 MB.	插件 ZIP 必须恰好包含一个托管 DLL，且不超过 32 MB。
+Plugin ZIP needs one managed DLL and an optional small mod.json.	插件 ZIP 需要一个托管 DLL，以及一个可选的小型 mod.json。
+Plugin already registered: 	插件已注册： 
+Plugin data is unavailable for this slot. Its files have been kept unchanged.	此槽位的插件数据不可用。其文件已被保持不变。
+Plugin save data exceeds 8 MiB.	插件存档数据超过 8 MiB。
+Plugin save data is unreadable: 	插件存档数据无法读取： 
+Plum Silk Chiffon	李子紫真丝雪纺
+Porcelain Cotton	青花瓷棉布
+Potion of Petals Patch	花瓣药水补丁
+Powder Blue Silk Chiffon	粉蓝真丝雪纺
+Prefab has duplicate mesh names; choose individual source meshes instead.	预制体存在重复的网格名称；请改为选择单个源网格。
+Prefab inheritance is cyclic or too deep.	预制体继承存在循环或层级过深。
+Prepared translated table 	已准备翻译表 
+Prestige level 0 through 50.	声望等级 0 到 50。
+Pretty in Plaid	格纹佳人
+Preview	预览
+Preview panel	预览面板
+Preview ready. Use Rotate if the accessory faces the wrong way.	预览已就绪。若配饰朝向不对，请使用旋转。
+Preview shows the latest dress photo, not the save date.	预览显示最新的连衣裙照片，而非存档日期。
+Preview this accessory before adding it.	添加配饰前先预览。
+Preview unavailable for this image	此图像无法预览
+Previous	上一个
+Previous category	上一个类别
+Primary	主要
+Primary / alternate (click to change)	主/备用（点击更改）
+Problem scrollbar	问题滚动条
+Problem viewport	问题视图区域
+Prompt	提示
+Properties panel	属性面板
+Properties window	属性窗口
+Property preview	属性预览
+Provide between 1 and 128 pencil colors.	请提供 1 到 128 种铅笔颜色。
+Purchase sound callback failed: 	购买音效回调失败： 
+Purple	紫色
+Purple & Black Pinstripe Cotton	紫色与黑色细条纹棉布
+Purple Abstract Tears Silk	紫色抽象泪纹真丝
+Purple Checkerboard Floral Cotton	紫色棋盘格花卉棉布
+Purple Damask Silk	紫色花缎真丝
+Purple Exposed Stitches Trim	紫色明线镶边
+Purple Fabric Collection	紫色面料系列
+Purple Gradient Granny Squares	紫色渐变祖母方格
+Purple Haze Watercolor Cotton	紫色薄雾水彩棉布
+Purple Night Sky Cotton	紫色夜天空棉布
+Purple Petal Lace on Tulle	紫色花瓣薄纱蕾丝
+Purple Seam Line Trim	紫色缝线镶边
+Purple Swirls Cotton	紫色漩涡棉布
+Purple and Yellow Granny Squares	紫色与黄色祖母方格
+Put down scissors	放下剪刀
+Put mod pack 	已放回模组包 
+Query one input channel at a time.	一次只查询一个输入通道。
+Queued	已排队
+Queued 	已排队 
+Quit game	退出游戏
+Quit, reopen in Steam	退出，在 Steam 中重新打开
+Rainbow Gradient Cotton	彩虹渐变棉布（彩虹）
+Range	范围
+Reading accessory models and materials…	正在读取配饰模型与材质…
+Reading models and materials…	正在读取模型与材质…
+Ready	就绪
+Ready to install	准备安装
+Ready to install 	准备安装 
+Ready to install Dressmaker Reduced Effects. Restart Dressmaker afterward.	准备安装 针影裁梦 Reduced Effects。之后请重启 针影裁梦。
+Ready to update Mod Manager to 	准备将模组管理器更新至 
+Rebuilding accessory mesh cache: 	正在重建配饰网格缓存： 
+Rebuilding texture preview: 	正在重建纹理预览： 
+Recovered plugin save data from 	已从以下位置恢复插件存档数据 
+Recovery	恢复
+Recursive accessory prefab load: 	配饰预制体递归加载： 
+Red	红色
+Red Exposed Stitches Trim	红色明线镶边
+Red French Lace on Tulle	红色法式薄纱蕾丝
+Red Gradient Granny Squares	红色渐变祖母方格
+Red Romance	红色浪漫
+Red Seam Line Trim	红色缝线镶边
+Red and Black Granny Squares	红色与黑色祖母方格
+Reduced Effects	Reduced Effects
+Reduced Effects 	Reduced Effects 
+Reduced Effects DLL is not the supported v1.0.1 release.	Reduced Effects DLL 不是受支持的 v1.0.1 版本。
+Reduced Effects ZIP contains an unsafe path.	Reduced Effects ZIP 包含不安全路径。
+Reduced Effects ZIP has more than one mod.json.	Reduced Effects ZIP 包含多个 mod.json。
+Reduced Effects ZIP has no valid DLL.	Reduced Effects ZIP 中没有有效的 DLL。
+Reduced Effects ZIP has unexpected files.	Reduced Effects ZIP 包含意外文件。
+Reduced Effects mod.json does not match this plugin.	Reduced Effects 的 mod.json 与此插件不匹配。
+Reduced Effects mod.json is invalid.	Reduced Effects 的 mod.json 无效。
+Reduced Effects mod.json is too large.	Reduced Effects 的 mod.json 过大。
+Reflection strength	反射强度
+Register a loaded fabric.	注册已加载的布料。
+Register accessories inside AccessoryModApi.WhenReady.	请在 AccessoryModApi.WhenReady 内注册配饰。
+Register an initialized BepInEx plugin.	注册已初始化的 BepInEx 插件。
+Register fabrics in FabricModApi.WhenReady.	请在 FabricModApi.WhenReady 中注册布料。
+Register garments in GarmentModApi.WhenReady.	请在 GarmentModApi.WhenReady 中注册服装。
+Register the content before describing it.	请先注册内容再对其进行描述。
+Registered	已注册
+Registered 	已注册 
+Registered Modded fabric tag.	已注册 Modded 布料标签。
+Registrations sharing a Unity shader must use the same main texture property.	共用同一 Unity 着色器的注册必须使用相同的主纹理属性。
+Release buttons, then press a key or mouse button for 	松开按钮，然后按下一个键或鼠标键以设置 
+Released	已松开
+Remove	移除
+Remove missing fabric, accessory and garment entries when no saved or current work uses them, including leftover stock.	当存档或当前作品未使用缺失的布料、配饰和服装条目时移除它们，包括剩余库存。
+Remove pack	移除资源包
+Remove unused missing items	移除未使用的缺失物品
+Removed	已移除
+Removed 	已移除 
+Removes leftover stock too. Keeps items used by saved or current work.	同时移除剩余库存。保留存档或当前作品使用的物品。
+Render queue	渲染队列
+Render scale	渲染缩放
+Rendered cloth	渲染布料
+Rendered fabric preview	渲染布料预览
+Rendering	渲染
+Repeat X	重复 X
+Repeat Y	重复 Y
+Repeatable visits currently support AtLeast tag requirements.	可重复拜访目前支持 AtLeast 标签需求。
+Repeating Tulips Cotton	连排郁金香棉布
+Replace pack	替换资源包
+Replace this mod pack?	替换此模组包？
+Replace this plugin?	替换此插件？
+Report copied.	报告已复制。
+Requirement values must be finite and nonnegative.	需求数值必须是有限且非负的。
+Reset	重置
+Reset category	重置分类
+Reset graphics	重置画面
+Reset to material defaults	重置为材质默认值
+Restart	重启
+Restart / reset placement	重启 / 重置摆放
+Restart Dressmaker	重启针影裁梦
+Restart Dressmaker to apply.	重启针影裁梦以应用。
+Restart confirmation	重启确认
+Restart confirmation panel	重启确认面板
+Restart game	重启游戏
+Restart now	立即重启
+Restart to load your mods?	重启以加载你的模组？
+Restore	还原
+Restore after restart	重启后恢复
+Restore confirmation	恢复确认
+Restore panel	恢复面板
+Restore queued for next launch. Close Dressmaker, then start it again.	已排队在下次启动时恢复。请关闭针影裁梦，然后重新启动。
+Restore the garment mod to recover this pattern.	恢复该服装模组以找回此纸样。
+Restore the mod for	为该模组还原：
+Restore the mod for 	请恢复以下模组 
+Restore this backup?	恢复此备份？
+Restored	已还原
+Restored 	已恢复 
+Restored installed language	已还原已安装语言
+Restored installed language 	已恢复已安装的语言 
+Restored save backup	已还原存档备份
+Restored save backup 	已恢复存档备份 
+Retained story history exceeds 4 MB. The previous cache was preserved.	保留的剧情历史超过 4 MB。已保留之前的缓存。
+Retro Blocks Cotton	复古方块棉布
+Return loose, missing patterns to the current dress's inventory.	把散落的缺失纸样放回当前连衣裙的物品栏。
+Return patterns	归还纸样
+Return to the title screen and close the save before copying slot data.	复制槽位数据前请返回标题界面并关闭存档。
+Returned	已返回
+Returned 	已返还 
+Reused accessories keep their original shader: 	复用的配饰保留其原有着色器： 
+Right	右
+Right 	右 
+Right Ctrl	右 Ctrl
+Right arrow	方向键右
+Right click action	右键操作
+Right mouse	鼠标右键
+RightMouseUp	右键松开
+RightShift	右 Shift
+River Mermaid	河美人鱼
+Rose Checkerboard Cotton	玫瑰棋盘格棉布
+Rose Gold Shot Organza	玫瑰金闪光欧根纱
+Rose Petal Cotton	玫瑰花瓣棉布
+Roses & Strawberries Cotton	玫瑰草莓棉布
+Rotate X	旋转 X
+Rotate Y	旋转 Y
+Rotate Z	旋转 Z
+Rotate left	向左旋转
+Rotate right	向右旋转
+RotateLeft	向左旋转
+RotateLeftKey	向左旋转按键
+RotateRight	向右旋转
+RotateRightKey	向右旋转按键
+RotationGizmo	旋转控件
+Royal Blue Lace on Tulle	宝蓝薄纱蕾丝
+Royal Purple Lace on Tulle	宝紫薄纱蕾丝
+Sage Mist Bias Gradient Silk	雾感鼠尾草斜裁渐变真丝
+Sage Silk Chiffon	鼠尾草绿真丝雪纺
+Sand Silk Chiffon	沙色真丝雪纺
+Sandbox	沙盒
+Sandbox Mode	沙盒模式
+Sappho Gradient Cotton	彩虹渐变棉布（女同性恋·萨福）
+Save	保存
+Save backed up before completing sewing: 	完成缝纫前已备份存档: 
+Save backed up before unlocking everything: 	解锁全部内容前已备份存档: 
+Save backup actions	存档备份操作
+Save backup failed. Check the backup folder before continuing.	存档备份失败。继续前请检查备份文件夹。
+Save backup warning anchor	存档备份警告锚点
+Save backups	存档备份
+Save backups list	存档备份列表
+Save credits	保存鸣谢
+Save fabric	保存布料
+Save first, then reopen Dressmaker through Steam.	先存档，然后通过 Steam 重新打开 针影裁梦。
+Save item	保存物品
+Save paused because a backup of missing garment data failed: 	由于缺失服装数据的备份失败，保存已暂停: 
+Save reference scan exceeded its limit.	存档引用扫描超出限制。
+Save the cut-out as a transparent PNG first.	请先将抠好的图保存为透明PNG。
+Save your game first if you have unsaved progress.	若有未保存的进度，请先保存游戏。
+Saved	已保存
+Saved 	已保存 
+Saved a recovery copy before writing a slot with missing garment mods: 	在写入含缺失服装模组的槽位前已保存恢复副本: 
+Saved data for 	以下对象的已保存数据 
+Saved dress	已保存连衣裙
+Saved dress preview	已保存连衣裙预览
+Savior	救世主
+Scrollbar	滚动条
+Sea Gold Cotton	海金棉布
+Sea Life Cotton	海洋生物棉布
+Seafoam Watercolor Cotton	海沫水彩棉布
+Search	搜索
+Search by fabric name...	按布料名称搜索...
+Search fabrics	搜索布料
+Search in-game fabrics	搜索游戏内布料
+Search installed mods	搜索已安装模组
+Search installed mods...	搜索已安装模组...
+Seashells Cotton	贝壳棉布
+Secondary	次要
+Select / drag	选择 / 拖动
+Select at least one mesh.	请至少选择一个网格。
+Select at most 32 materials per accessory.	每个配饰最多选择 32 种材质。
+Selected	已选择
+Selected 	已选择 
+Selected meshes are empty.	所选网格为空。
+Selected pack	已选资源包
+Selected tags	已选标签
+Separate keywords with spaces to enable optional shader features.	用空格分隔关键字以启用可选的着色器功能。
+Sequin	亮片
+Settings	设置
+Settings action 	设置操作 
+Settings scroll	设置滚动区
+Settings tab already registered: 	设置标签页已注册: 
+Sew	缝制
+Sewing camera view: 75 percent is closer, 125 percent is wider, 100 percent is original.	缝纫视角：75% 更近，125% 更远，100% 为原始视角。
+Sewing complete. Cut and sewing quality are 100%. You can now finish the dress.	缝纫完成。裁剪与缝纫质量均为 100%。现在可以完成连衣裙了。
+Sewing view, guide colors and motion options are in the Reduced effects tab.	缝纫视角、辅助线颜色和动态选项位于「减弱效果」标签页。
+SewingAverage	缝制平均值
+Shader	着色器
+Shader 	着色器 
+Shader AssetBundle was not found.	未找到着色器 AssetBundle。
+Shader already registered: 	着色器已注册： 
+Shader asset not found in bundle: 	包内未找到着色器资源： 
+Shader is not supported by this game or graphics device: 	此游戏或图形设备不支持该着色器： 
+Shader keywords	着色器关键字
+Shader name, render properties, texture slots, and keywords.	着色器名称、渲染属性、纹理槽位与关键字。
+Shader not found: 	未找到着色器: 
+Shader property 	着色器属性 
+Shader: 	着色器：
+Shadow distance	阴影距离
+Shadow distance as a percentage of the game's setting. 0 disables real-time shadows; 100 keeps the game setting.	阴影距离占游戏设置的百分比。0 关闭实时阴影；100 沿用游戏设置。
+Shadow in folds	褶皱阴影
+Shadow strength for transparent fabrics.	透明布料的阴影强度。
+Shadow-map quality	阴影贴图质量
+Shadow-map resolution. 0 preserves game settings.	阴影贴图分辨率。0 沿用游戏设置。
+Shadows	阴影
+Sheer Fabrics	薄纱布料
+Sheer fabric	薄透布料
+Sheer fabric shader	薄纱着色器
+Sheer shadows	薄纱阴影
+SheerFabrics images must be PNG files.	SheerFabrics 图像必须是 PNG 文件。
+SheerFabrics integration could not start for this version: 	此版本无法启动 SheerFabrics 集成： 
+SheerFabrics integration enabled: streamed images, fabric definitions and creator shader.	已启用 SheerFabrics 集成：流式图像、布料定义和创作者着色器。
+SheerFabrics is already installed in another plugin folder. Move that folder out of BepInEx/plugins before installing this ZIP, so BepInEx does not load two copies.	SheerFabrics 已安装在其他插件文件夹中。安装此 ZIP 前请把该文件夹移出 BepInEx/plugins，以免 BepInEx 加载两份副本。
+Shop	商店
+Shop item name	商店物品名称
+Shop name	商店名称
+Shop price	商店价格
+Shop price (blank keeps the base price)	商店价格（留空则保留基础价格）
+Shop price, from 0 to 2149633.	商店价格，从 0 到 2149633。
+Shorten the pack description	缩短资源包描述
+Show / hide pins	显示 / 隐藏珠针
+Show pins	显示别针
+Show sewing pins and accessory path control pins while editing a dress.	编辑连衣裙时显示缝纫别针和配饰路径控制点。
+Show the Mod Loader version.	显示模组加载器版本。
+Show the active game scene.	显示当前游戏场景。
+Show this fabric family in the shop. Owned fabric and dresses are kept.	在商店中显示该布料系列。已拥有的布料和连衣裙会保留。
+ShowPins	显示珠针
+Showing first-launch mod support notice.	正在显示首次启动的模组支持提示。
+Sienna Silk Chiffon	赭石真丝雪纺
+Silk	丝绸
+Silly Goose Cotton	傻鹅棉布
+Silver Lace on Tulle	银色薄纱蕾丝
+Simple Gradient Silks	简约渐变真丝
+Simple Hearts Purple Cotton	简约心形紫色棉布
+Simple Pink Floral Cotton	简约粉色花卉棉布
+Simple Purple Sequins	简约紫色亮片布
+Simple Stars Purple Cotton	简约星点紫色棉布
+Simple Striped Blue Cotton	简约蓝条纹棉布
+Single Mushroom Patch	单蘑菇补丁
+Sketch	草图
+SketchbookFabric	素描本布料
+Sky Blue Exposed Stitches Trim	天空蓝色明线镶边
+Sky Blue Seam Line Trim	天空蓝色缝线镶边
+Slider	滑块
+Smaller	更小
+Smooths edges on supported cameras. Uses more GPU memory.	在支持的相机上平滑边缘。占用更多 GPU 内存。
+Smudged Cotton	晕染棉布
+Snow Petal Lace on Tulle	雪花瓣薄纱蕾丝
+Snow Plaid Cotton	雪色格纹棉布
+Snowflake Cotton	雪花棉布
+Soft Flowers Pink Cotton	柔花粉色棉布
+Soft GPU budget for managed pack images. CPU copies use additional memory. Visible and pinned images may exceed this.	受管理资源包图像的 GPU 软上限。CPU 副本会占用额外内存。可见和固定的图像可能超出此值。
+Soft Leaf Print Cotton	柔叶纹印花棉布
+Soft shadows	柔和阴影
+Soft shadows: -1 preserves game settings, 0 off.	柔和阴影：-1 沿用游戏设置，0 关闭。
+SoftSewingGuideColors	柔和缝制辅助线颜色
+Soften shadow edges where supported.	在支持的地方柔化阴影边缘。
+Some packs could not be restored. Check My mod packs before restarting.	部分资源包无法恢复。重启前请检查「我的模组包」。
+Song of the Mermaid	美人鱼之歌
+Sort overlapping transparent pieces. Turn off if sheer dresses run slowly.	对重叠的透明裁片排序。若薄纱连衣裙运行缓慢请关闭。
+Soundtrack plugin callback failed: 	原声带插件回调失败: 
+Source URL (optional)	来源 URL（可选）
+Source mod.json is too large.	源 mod.json 过大。
+Space	空格
+Speed up cutting-table pattern checks. Restart after changing this.	加快裁剪台纸样检查。更改后需重启。
+Split Crew Neck Bodice	拆分圆领上衣
+Springtime Blue Cotton	春意蓝棉布
+Star Nebula Mermaid	星星星云美人鱼
+Starfish Cotton	海星棉布
+Starry Noir Cotton	星夜黑棉布
+Starry Purple Cotton	星空紫色棉布
+Starry Silk	星空真丝
+Stars on a Teal Sky	青蓝天空星点
+Status	状态
+StillCuttingArrow	裁剪箭头静止
+StillSewingGuides	缝制辅助线静止
+Stop grain arrow flashing and use muted steady state colors on the cutting table.	停止纹理方向箭头闪烁，并在裁剪台上使用柔和的稳定颜色。
+Stop the moving red stripes on invalid cutting-table patterns while keeping the warning visible.	停止无效裁剪台纸样上的移动红色条纹，同时保留警告。
+Story asset GUID collision: 	剧情资源 GUID 冲突： 
+Story asset is missing or exceeds 32 MB: 	剧情资源缺失或超过 32 MB： 
+Story availability needs a level from 0 to 50 and a relationship from 0 to 5.	剧情开放需要 0 到 50 的等级和 0 到 5 的好感度。
+Story manifest exceeds its size limit.	剧情清单超出大小限制。
+Story offers disabled for 	剧情邀约已禁用： 
+Strawberry Lemonade Cotton	草莓柠檬水棉布
+Strawberry Milk Cotton	草莓牛奶棉布
+Strawberry Pink Cotton	草莓粉棉布
+Strength	强度
+Striped Cotton	条纹棉布
+Striped GreenVintage Cotton	条纹绿色复古棉布
+Subdued Blue Lace on Tulle	柔蓝薄纱蕾丝
+Subdued Purple Lace on Tulle	柔紫薄纱蕾丝
+Sunlight Mermaid	阳光美人鱼
+Sunny Cotton	晴朗棉布
+Sunny Granny Squares	晴朗祖母方格
+Sunrise Cotton	日出棉布
+Sunset Watercolor Cotton	日落水彩棉布
+Sunshine Cotton	阳光棉布
+Support	支持
+Support backing	支持背景
+Surface	表面
+Surface smoothness	表面光滑度
+Sweet Mermaid	甜美美人鱼
+Swirly Pastel Purple Silk	旋纹淡紫真丝
+Symmetry	对称
+Sync to your display. Overrides the FPS cap.	与显示器同步。会覆盖帧率上限。
+Synchronize frames with the display to reduce tearing. Takes priority over the game's FPS cap.	与显示器同步帧以减少画面撕裂。优先于游戏的帧率上限。
+System file picker could not start: 	系统文件选择器无法启动：
+System file picker failed: 	系统文件选择器失败：
+System picker could not open. Use the in-game browser instead.	System picker could not open. Use the in-game browser instead.
+Tabs	页签
+Tag	标签
+Tag choices	标签选择
+Tag panel	标签面板
+Tags and strengths	标签与强度
+Tags divider	标签分隔线
+Tags for 	标签：
+Teal Lace on Tulle	青蓝薄纱蕾丝
+Teal Silk Chiffon	青蓝真丝雪纺
+Template needs a valid id and name.	模板需要有效的 id 和名称。
+Template needs valid bodice, skirt, sleeve, and collar IDs.	模板需要有效的上衣、裙子、袖子和领子ID。
+Template parts are incompatible with the chosen bodice.	模板部件与所选上衣不兼容。
+Template variant index is out of range.	模板变体索引超出范围。
+Template: 	模板： 
+Text	文本
+TextBox	文本框
+Textile type	织物类型
+Texture	贴图
+Texture (PNG or JPEG)	贴图（PNG 或 JPEG）
+Texture (optional)	贴图（可选）
+Texture cache	纹理缓存
+Texture depth	纹理深度
+Texture memory	纹理内存
+Texture path	贴图路径
+Texture residency must be used on Unity's main thread.	纹理驻留必须在 Unity 主线程使用。
+Textures	贴图
+Textures exceed the 1 GB pack limit.	纹理超出资源包 1 GB 的上限。
+Thank you! This is just what I needed.	谢谢！这正是我想要的。
+The DLL is not SheerFabrics.	该 DLL 不是 SheerFabrics。
+The Emperor's New Blap	皇帝的新布
+The Emperor's New Cloth	皇帝的新衣
+The Emperor's New Cotton	皇帝的新棉布
+The Emperor's New Lace	皇帝的新蕾丝
+The Emperor's New Linen	皇帝的新亚麻
+The Emperor's New Sequins	皇帝的新亮片布
+The Emperor's New Silk	皇帝的新真丝
+The Emperor's New Velvet	皇帝的新天鹅绒
+The Emperor's New Wool	皇帝的新羊毛呢
+The Emporium cloth updates as you adjust these controls.	调整这些控件时，商店布料会实时更新。
+The Emporium display is not loaded yet. Open this editor from the shop to preview it.	商店展示尚未加载。请从商店打开此编辑器以预览。
+The Emporium fabric display has no visible mesh.	商场布料展台没有可见网格。
+The Emporium fabric display is missing its cloth or bolt.	商场布料展台缺少布料或布卷。
+The Mod Manager DLL in this ZIP is invalid.	此 ZIP 中的模组管理器 DLL 无效。
+The Mod support button opens our Discord.	「模组支持」按钮会打开我们的 Discord。
+The Options layout has changed.	选项布局已更改。
+The SheerFabrics ZIP contains a truncated file: 	SheerFabrics ZIP 包含被截断的文件： 
+The SheerFabrics ZIP contains an unsafe or duplicate path: 	SheerFabrics ZIP 包含不安全或重复的路径： 
+The SheerFabrics ZIP exceeds its declared size.	SheerFabrics ZIP 超出其声明的大小。
+The SheerFabrics ZIP is missing 	SheerFabrics ZIP 缺少 
+The SheerFabrics ZIP is too large.	SheerFabrics ZIP 过大。
+The SheerFabrics ZIP must contain one SheerFabrics.dll.	SheerFabrics ZIP 必须包含一个 SheerFabrics.dll。
+The ZIP contains an unsafe path or file link.	ZIP 包含不安全的路径或文件链接。
+The ZIP could not be read	无法读取 ZIP
+The ZIP does not contain the Dressmaker Reduced Effects plugin.	该 ZIP 不包含针影裁梦 Reduced Effects 插件。
+The ZIP must be at most 1 GB unpacked.	ZIP 解包后不得超过 1 GB。
+The ZIP needs exactly one mod.json.	ZIP 必须恰好包含一个 mod.json。
+The accessory factory must return its own inactive prefab clone.	配饰工厂必须返回其自身未激活的预制体副本。
+The accessory has no width. Rotate it before importing.	配饰宽度为零。导入前请旋转。
+The accessory importer is missing. Reinstall the full Mod Loader ZIP.	配饰导入器缺失。请重新安装完整的模组加载器 ZIP。
+The archive may be incomplete or damaged.	压缩包可能不完整或已损坏。
+The backup contains an unexpected path.	备份包含意外路径。
+The backup has an invalid number of files.	该备份的文件数量无效。
+The backup has no save files or manifest.	备份没有存档文件或清单。
+The backup is too large.	备份过大。
+The bundled dress content is damaged.	内置连衣裙内容已损坏。
+The content belongs to another mod.	该内容属于其他模组。
+The content must be registered under this plugin's ID.	内容必须注册在此插件的 ID 下。
+The current DLL will be backed up. Restart to apply the update.	会先备份当前 DLL。重启以应用更新。
+The current mannequin mesh is not available. Open its measuring room and try again.	当前人台网格不可用。请打开其人台测量房间后重试。
+The dress's seams are not ready yet.	连衣裙的接缝尚未就绪。
+The existing Reduced Effects DLL is in use. Close Dressmaker and extract the ZIP into the game folder to update it.	现有的 Reduced Effects DLL 正在使用中。请关闭针影裁梦，并将 ZIP 解压到游戏文件夹以更新。
+The export definition must have the same local ID as the registered item.	导出定义必须与已注册物品具有相同的本地 ID。
+The fabric ZIP contains duplicate filenames.	布料 ZIP 包含重复的文件名。
+The fabric override selected an unsupported shader.	布料覆盖选择了不受支持的着色器。
+The fabric pack has too many files or is larger than 1 GB.	布料资源包文件过多或大于 1 GB。
+The file does not contain a complete dress pattern.	该文件不包含完整的连衣裙纸样。
+The files in this ZIP do not match the supported plugin package layout.	此 ZIP 中的文件不符合受支持的插件包结构。
+The game did not update the current save.	游戏未更新当前存档。
+The game did not update the current save. Your backup was not made.	游戏未更新当前存档。未创建备份。
+The game tiles this image over the cloth.	游戏会将此图像平铺在布料上。
+The image appears on both sides of the patch.	该图像会显示在贴片的两面。
+The image is fully transparent.	该图像完全透明。
+The imported pack was moved. Restart Dressmaker before importing it again.	导入的资源包已被移动。请重启针影裁梦后再重新导入。
+The imported texture keeps the colours and transparent areas.	导入的贴图会保留颜色与透明区域。
+The installation could not finish	安装无法完成
+The installed pack 	已安装的资源包 
+The installer could not complete a file operation. The error below may name the affected file.	安装程序无法完成文件操作。下面的错误可能指出受影响的文件。
+The installer could not find a file it needs. Check the path in the details below.	安装程序找不到所需的文件。请检查下面详情中的路径。
+The installer found an existing item with this file name, folder name or pack ID.	安装程序发现已存在使用此文件名、文件夹名或资源包 ID 的项目。
+The installer needs a managed .NET DLL. A plugin ZIP must contain exactly one DLL, no larger than 32 MB.	安装程序需要一个托管 .NET DLL。插件 ZIP 必须恰好包含一个 DLL，且不超过 32 MB。
+The loader could not complete this step. It does not have a specific explanation for this error.	加载器无法完成此步骤。它没有针对此错误的具体说明。
+The migration returned no data.	迁移未返回数据。
+The mod's JSON could not be read	无法读取该模组的 JSON
+The neutral mannequin mesh is not available yet. Open its measuring room and try again.	中性人台网格尚不可用。请打开其人台测量房间后重试。
+The old ID is already in use.	旧 ID 已被使用。
+The operating system refused access to a file or folder needed for the installation.	操作系统拒绝访问安装所需的文件或文件夹。
+The pack contains an unsupported file or path	资源包包含不支持的文件或路径
+The pack description must fit on one line and contain no more than 400 characters.	资源包描述必须在一行内，且不超过 400 个字符。
+The pack exceeds an install limit	资源包超出安装限制
+The pack's 	资源包的 
+The pack's files need checking	资源包的文件需要检查
+The pack's settings are missing a required value or contain a value the loader cannot use.	资源包的设置缺少必需的值，或包含加载器无法使用的值。
+The pending save backup name is invalid.	待处理的存档备份名称无效。
+The plugin ZIP needs checking	插件 ZIP 需要检查
+The plugin could not be loaded	无法加载插件
+The queued Enable/Disable all mods action could not be completed. Check the startup log for the conflicting folder or file. The action will be retried next launch.	已排队的「启用/禁用全部模组」操作未能完成。请检查启动日志中冲突的文件夹或文件。该操作将在下次启动时重试。
+The saves are too large to package safely.	存档过大，无法安全打包。
+The selected DLL changed during installation. Choose it again.	安装过程中所选 DLL 已更改。请重新选择。
+The selected DLL is empty or too large.	所选 DLL 为空或过大。
+The selected ZIP changed during the update. Choose it again.	更新过程中所选 ZIP 已更改。请重新选择。
+The selected save has no matching plugin data file. Existing plugin data has been kept unchanged: 	所选存档没有匹配的插件数据文件。现有插件数据已被保持不变： 
+The sketchbook is not ready. Use PencilColorModApi.WhenReady first.	素描本尚未就绪。请先使用 PencilColorModApi.WhenReady。
+The startup compatibility resource is missing.	缺少启动兼容资源。
+The tags kept from the in-game fabric are invalid. Choose tags again.	从游戏内布料保留的标签无效。请重新选择标签。
+The update could not finish	更新无法完成
+There is no dress to export.	没有可导出的服装。
+These changes apply only to this fabric.	这些更改仅应用于此布料。
+These details belong to the whole pack. Each fabric has its own settings.	这些详情属于整个资源包。每种布料都有自己的设置。
+Thickness	厚度
+This DLL is already in BepInEx/plugins. Restart Dressmaker to try loading it.	此 DLL 已在 BepInEx/plugins 中。请重启针影裁梦以尝试加载。
+This PNG has no transparent border to trace. Remove its background first.	此 PNG 没有可供描摹的透明边缘。请先移除背景。
+This ZIP contains too many files.	此 ZIP 包含的文件过多。
+This ZIP does not contain a Dressmaker Mod Manager release.	该 ZIP 不包含针影裁梦模组管理器发行版。
+This backup has a file that cannot be restored.	此备份包含无法恢复的文件。
+This backup has no playable save or recovery copy.	此备份没有可用的存档或恢复副本。
+This cut-out creates a model that is too large. Simplify its edge and try again.	此抠图生成的模型过大。请简化其边缘后重试。
+This cut-out is too detailed. Try an image with a cleaner edge.	此抠图过于精细。请尝试边缘更干净的图像。
+This dress export exceeds 192 MB.	此服装导出超过 192 MB。
+This dress file exceeds 192 MB.	此服装文件超过 192 MB。
+This dress needs more than 512 custom definitions.	此连衣裙需要超过 512 个自定义定义。
+This fabric has no image to resize.	此布料没有可调整大小的图像。
+This fabric has nothing to change here.	此布料在此处没有可更改的内容。
+This fabric needs SheerFabrics and its supported fabric shader. Install SheerFabrics and restart Dressmaker.	此布料需要 SheerFabrics 及其支持的布料着色器。请安装 SheerFabrics 并重启针影裁梦。
+This fabric price is outside the supported range.	此布料价格超出支持范围。
+This fabric uses SheerFabrics. Install SheerFabrics and restart Dressmaker, then install this file.	该布料使用 SheerFabrics。请安装 SheerFabrics 并重启 针影裁梦，然后安装此文件。
+This fabric uses textile or color settings the creator cannot edit yet.	此布料使用了创建器尚无法编辑的织物或颜色设置。
+This fabric's material has no setting for this.	此布料的材质没有对应此项的设置。
+This fabric's material has no tint setting.	此布料的材质没有色调设置。
+This file cannot be used to update Mod Loader.	此文件不能用于更新模组加载器。
+This image is too large for a mod pack.	此图像对于模组包来说过大。
+This image is too large. Resize it before importing.	此图像过大。导入前请调整尺寸。
+This includes hidden or normally locked items. It is the asset list, not just the shop list.	这包含隐藏或通常锁定的物品。这是资源列表，而不只是商店列表。
+This is not a Dressmaker save backup.	这不是针影裁梦存档备份。
+This is not a managed .NET DLL that BepInEx can load.	这不是 BepInEx 可加载的托管 .NET DLL。
+This is not quite what I asked for.	这跟我要的不太一样。
+This item ID is in the draft. Click Add patch to pack again to replace that item.	此物品 ID 已在草稿中。再次点击添加贴片到资源包即可替换该物品。
+This language already exists in the game: 	游戏中已存在此语言: 
+This pack has no accessories.	此资源包没有配饰。
+This pack has too many files or is too large.	此资源包文件过多或过大。
+This pack is disabled	此资源包已禁用
+This pack is disabled. Enable or remove it before updating.	此资源包已禁用。更新前请启用或移除它。
+This pack is installed. Click Make, install and ZIP pack again to back up and replace it.	此资源包已安装。点击生成，再次安装并打包 ZIP 以备份并替换它。
+This package has more than 256 accessory choices. Split it into smaller packages.	此资源包有超过 256 个配饰选项。请拆分为更小的资源包。
+This package has no FBX accessory models.	此资源包没有 FBX 配饰模型。
+This plugin save data needs a different Mod Loader version. It has been kept unchanged.	此插件存档数据需要其他模组加载器版本。它已被保持不变。
+This shader has no settings in this section.	此着色器在本部分没有设置。
+This shader is not supported on the current platform.	当前平台不支持此着色器。
+This variant is in the draft. Click Add variant to pack again to update it.	此变体已在草稿中。再次点击添加变体到资源包即可更新。
+Thorn Collection in Drowned	沉溺荆棘系列
+Thorn Collection in Faded	褪色荆棘系列
+Thorn Collection in Graveyard Green	墓园绿荆棘系列
+Tick	刻度
+Tiled Multicolor Cotton	多彩砖纹棉布
+Tiling	平铺
+Tint	色调
+Tint border	色调边框
+Tint changes pale fabrics most. It cannot lighten a dark image.	色调对浅色布料影响最大。它无法提亮深色图像。
+Tint picker	色调选择器
+Tint swatch	色调色块
+Tint: 	色调：
+Tiny Pink Hearts Cotton	迷你粉色爱心棉布
+Tiny Purple Stars on White Cotton	白色棉布小巧紫色星点
+Tiny Red Hearts Cotton	迷你红色爱心棉布
+Tiny Stars Purple Cotton	小巧星点紫色棉布
+TitleScreen	标题界面
+Toad Familiar Patch	蟾蜍使魔补丁
+Toggle	开关
+Toggle 	切换 
+Too many accessory triangles.	配饰三角形过多。
+Track	音轨
+Transparent PNG	透明 PNG
+Transpiler	转译器
+TrimClearance	修剪余量
+Tropical Leaves Cotton	热带叶片棉布
+Turns the directional sheen.	旋转方向性光泽。
+Twilight Bias Gradient Silk	暮色斜裁渐变真丝
+Twin Hearts Pink Cotton	双生爱心粉色棉布
+Two packs use the folder name	两个资源包使用了相同的文件夹名
+Two packs use the folder name 	两个资源包使用了文件夹名 
+UV tiling is too large to bake clearly.	UV 平铺过大，无法清晰烘焙。
+UVInterpolate	UV 插值
+Umber Silk Chiffon	赭褐真丝雪纺
+Unbound	未绑定
+Underwater Cotton	水下世界棉布
+Unexpected FBX output data.	意外的 FBX 输出数据。
+Unexpected SheerFabrics file: 	SheerFabrics 文件异常： 
+Unicorn Familiar Patch	独角兽使魔补丁
+Unity asset metadata is too large.	Unity 资源元数据过大。
+Unity could not open the shader AssetBundle.	Unity 无法打开着色器 AssetBundle。
+Unity package contains an invalid asset entry.	Unity 包包含无效的资源条目。
+Unity package contains an invalid asset path.	Unity 包包含无效的资源路径。
+Unity package contains an unsupported archive entry.	Unity 包包含不支持的归档条目。
+Unity package expands beyond the import size limit.	Unity 包解压后超出导入大小限制。
+Unity package has a damaged archive header.	Unity 包的归档头已损坏。
+Unity package has more than 256 accessory variants.	Unity 包有超过 256 个配饰变体。
+Unity package has too many entries.	Unity 包条目过多。
+Unity package is incomplete.	Unity 包不完整。
+Unity packages	Unity 包
+Unknown	未知
+Unknown 	未知 
+Unknown accessoryType	未知配饰类型
+Unknown accessoryType 	未知的 accessoryType 
+Unknown afterDialogues ID: 	未知的 afterDialogues ID： 
+Unknown afterQuests ID: 	未知的 afterQuests ID： 
+Unknown author	未知作者
+Unknown base fabric: 	未知的基础布料： 
+Unknown base garment	未知基础服装
+Unknown base garment 	未知的基础服装 
+Unknown baseAccessory: 	未知的 baseAccessory： 
+Unknown baseCharacter: 	未知的 baseCharacter： 
+Unknown baseComponent	未知基础部件
+Unknown baseComponent 	未知的 baseComponent 
+Unknown baseFabric	未知基础布料
+Unknown baseFabric 	未知的 baseFabric 
+Unknown character portrait slot.	未知的角色立绘槽位。
+Unknown color	未知颜色
+Unknown color 	未知颜色 
+Unknown command: 	未知命令： 
+Unknown commission client: 	未知的委托客户： 
+Unknown commission requirement type: 	未知委托需求类型： 
+Unknown dialogue client: 	未知的对话客户： 
+Unknown fabricType	未知布料类型
+Unknown fabricType 	未知的 fabricType 
+Unknown garment: 	未知服装： 
+Unknown loading error	未知加载错误
+Unknown mod portrait expression '	未知的模组立绘表情'
+Unknown pack image.	未知的资源包图片。
+Unknown pencil category: 	未知的铅笔类别: 
+Unknown, invalid, or duplicate garment tag 	未知、无效或重复的服装标签 
+UnlimitedFunds	资金无限
+Unlock everything	解锁全部内容
+Unlocks were saved, but their display could not refresh: 	解锁已保存，但其显示无法刷新: 
+Unreadable pack	资源包无法读取
+Unsafe SheerFabrics path: 	SheerFabrics 路径不安全： 
+Unsafe pack path: 	不安全的资源包路径: 
+Unselected	未选择
+Unsupported OBJ record: 	不支持的 OBJ 记录： 
+Unsupported content recovery data.	不支持的内容恢复数据。
+Unsupported dress asset: 	不支持的服装资源： 
+Unsupported dress content format.	不支持的服装内容格式。
+Unsupported dress content kind: 	不支持的服装内容类型： 
+Unsupported garment component	不支持的服装部件
+Unsupported garment component 	不支持的服装部件 
+Unsupported or invalid dress content bundle.	不支持或无效的服装内容包。
+Unsupported setting type.	不支持的设置类型。
+Unused old setting.	未使用的旧设置。
+Up arrow	方向键上
+Up one folder	上一层文件夹
+Update	更新
+Update Mod Manager?	更新模组管理器？
+UpdateText	更新文本
+Use SheerFabrics' shader for transparent fabrics.	对透明布料使用 SheerFabrics 的着色器。
+Use a 6-digit hex color like #D8A0A8.	请使用 6 位十六进制颜色，例如 #D8A0A8。
+Use a 6-digit hex color like #FFE4B5.	请使用 6 位十六进制颜色，例如 #FFE4B5。
+Use a Mod Loader release ZIP	请使用模组加载器发行 ZIP
+Use a nonempty local data key containing letters, digits, dots, underscores or hyphens.	请使用非空的本地数据键，只能包含字母、数字、点、下划线或连字符。
+Use a still, solid sewing guide.	使用静止的实心缝纫辅助线。
+Use a version like 1.0.0.	请使用类似 1.0.0 的版本号。
+Use a whole number for the shop price.	商店价格请使用整数。
+Use letters, digits, hyphens, or underscores in command names.	命令名只能使用字母、数字、连字符或下划线。
+Use letters, numbers, dots, underscores, or hyphens for the pack ID.	资源包ID只能使用字母、数字、点、下划线或连字符。
+Use muted sewing guide colors instead of bright colors and pure black/white.	使用柔和的缝纫辅助线颜色，而非亮色和纯黑/纯白。
+Use one friendshipRewards entry per level, with up to five levels.	每级使用一个 friendshipRewards 条目，最多五级。
+Use the Mod Manager release ZIP to update DressmakerMods.dll.	请使用模组管理器发行版 ZIP 更新 DressmakerMods.dll。
+Use the exact baseAccessory ID, not the display name.	请使用准确的 baseAccessory ID，而不是显示名称。
+Use this folder	使用此文件夹
+Used when VSync is off.	关闭垂直同步时使用。
+User canceled	用户已取消
+Using the base fabric's image. The preview updates as you adjust these controls.	正在使用基础布料的图像。调整这些控件时预览会更新。
+VSync	垂直同步
+Valentines Granny Squares	情人节祖母方格
+Vampire Part 1	Vampire Part 1
+Variant has no panels or too many panels.	变体没有面片或面片过多。
+Vector	向量
+Velvet	天鹅绒
+Venomous Mermaid	剧毒美人鱼
+Version	版本
+Vertical distance	垂直距离
+ViewTarget	观察目标
+Viewport	视口
+Vintage Flowers Silk	复古花卉真丝
+Vintage Pink Patterned Cotton	复古粉色花纹棉布
+Vintage Pink Striped Cotton	复古粉色条纹棉布
+Vintage Plaid Cotton	复古格纹棉布
+Vintage Plaid Pink Cotton	复古格纹粉色棉布
+Vintage Striped Blue Cotton	复古蓝条纹棉布
+Warm Granny Squares	保暖祖母方格
+Warm Hearts Cotton	暖心棉布
+Warm Multi-Color Granny Squares	保暖多彩祖母方格
+Watercolor Fabrics	水彩布料
+Watercolor Flowers Silk	水彩花卉真丝
+Watercolor Plaid Cotton	水彩格纹棉布
+Wave Cotton	波浪棉布
+Weave highlight angle	织纹高光角度
+What is in this pack?	此资源包里有什么？
+Whether the first-launch mod support notice has been acknowledged. Set false to show it again.	首次启动的模组支持提示是否已确认。设为 false 可再次显示。
+White	白色
+White Exposed Stitches Trim	白色明线镶边
+White Flowers on Yellow Cotton	黄底白花棉布
+White Petals Cotton	白色花瓣棉布
+White Seam Line Trim	白色缝线镶边
+White and Black Gradient Granny Squares	白色与黑色渐变祖母方格
+Width (cm)	宽度（厘米）
+Window	窗口
+Wool	羊毛
+Yarn nodes must have unique names starting with 	Yarn 节点名称必须唯一，且以下列内容开头： 
+Yellow	黄色
+Yellow Exposed Stitches Trim	黄色明线镶边
+Yellow Gradient Granny Squares	黄色渐变祖母方格
+Yellow Plaid with Flowers Cotton	黄格纹花卉棉布
+Yellow Seam Line Trim	黄色缝线镶边
+Yellow and Blue Plaid Wool	黄蓝格纹羊毛呢
+Yes	是
+You can find support links on the mod page.	你可以在模组页面找到支持链接。
+Your old pack will be backed up first.	会先备份你原来的资源包。
+Your save backups	你的存档备份
+Your saved dresses will appear here	已保存的连衣裙将显示在此处
+ZIP file ended	ZIP 文件结束
+ZIP file ended before its declared size.	ZIP 文件在声明大小之前就结束了。
+ZIP file size does not match its entry.	ZIP 文件大小与其条目不符。
+Zoom	缩放
+already exists	已存在
+already in BepInEx	已在 BepInEx 中
+already installed	已安装
+another folder name	其他文件夹名
+art replacements	美术替换
+artReplacements needs 1 to 128 entries.	artReplacements 需要 1 到 128 个条目。
+at most	最多
+attributions must be a list of up to 100 credits.	attributions 必须是最多 100 条鸣谢的列表。
+base tags	基础标签
+central directory	中央目录
+changed during	在此期间发生变化
+delivery must be visit or pigeon.	delivery 必须是 visit 或 pigeon。
+did not finish	未完成
+dress templates	服装模板
+dressTemplates:	dressTemplates:
+dressmaker-accessory:	dressmaker-accessory:
+dressmaker-fabric-type:	dressmaker-fabric-type:
+dressmaker-garment-tag:	dressmaker-garment-tag:
+dressmaker-garment:	dressmaker-garment:
+dressmaker-item-tag:Modded	dressmaker-item-tag:Modded
+dressmaker-mod:	dressmaker-mod:
+dressmaker-story:	dressmaker-story:
+dressmaker-story:ConversationPieceDefinition:	dressmaker-story:ConversationPieceDefinition:
+escapes its folder	逃逸出其文件夹
+fabric added	已添加布料
+fabric tags	布料标签
+fabric types	布料类型
+fabrics added	已添加布料
+file link	文件链接
+friendship rewards	友情奖励
+garment pieces	服装部件
+garment tags	服装标签
+help	帮助
+imports/	imports/
+input claim	输入占用
+is ready for previews.	已就绪，可用于预览。
+json:	json:
+larger than	大于
+licenses/	licenses/
+localization table(s) for	以下对象的本地化表：
+macOS file picker failed (exit code 	macOS 文件选择器失败（退出代码 
+managed .NET DLL	托管 .NET DLL
+managed DLL	托管 DLL
+manifest does not match	清单不匹配
+material colour	材质颜色
+material.renderQueue must be -1 through 5000.	material.renderQueue 必须为 -1 到 5000。
+mod support channel	模组支持频道
+mod.json is larger than 4 MB.	mod.json 大于 4 MB。
+mod.json needs an id using letters, digits, dots, underscores, or hyphens.	mod.json 的 id 只能使用字母、数字、点、下划线或连字符。
+mod.json sets the pack's "	mod.json 将资源包的 "
+more	更多
+none	无
+objectReference:	objectReference:
+off	关闭
+original color	原始颜色
+other content	其他内容
+pack	资源包
+pencil colors	铅笔颜色
+pencil palettes	铅笔调色板
+pencilPalette must be an object.	pencilPalette 必须是对象。
+pencilPalette needs colors or categories.	pencilPalette 需要 colors 或 categories。
+pencilPalette.categories needs 1 to 32 categories.	pencilPalette.categories 需要 1 到 32 个类别。
+pencilPalette.replace must be true or false.	pencilPalette.replace 必须为 true 或 false。
+pencilPalette.replace needs colors for the Default category.	pencilPalette.replace 需要 Default 类别的颜色。
+plugin:	插件:
+portraitIndex is only for specialPortrait and must be 0 to 127.	portraitIndex 仅用于 specialPortrait，且必须为 0 到 127。
+release ZIP	发行 ZIP
+repeatGroup needs a valid ID and visit delivery.	repeatGroup 需要有效的ID和 visit 交付方式。
+reuseAsset: true keeps the original asset. Needs Mod Loader 0.6.14 or newer.	reuseAsset: true 保留原始资源。需要模组加载器 0.6.14 或更高版本。
+rule	规则
+save data archive	存档归档
+save data load	存档读取
+save data write	存档写入
+save:	存档：
+shader:	着色器：
+size does not match	大小不匹配
+story dialogues	剧情对话
+tag	标签
+tags	标签
+the current character	当前角色
+title:	标题：
+title: 	标题： 
+too large	过大
+too many	过多
+unexpected file	意外的文件
+unlockLevel must be between 0 and 50.	unlockLevel 必须在 0 到 50 之间。
+was unavailable.	不可用。
+yyyy-MM-dd HH:mm	yyyy-MM-dd HH:mm
+zip	ZIP
+冬粉铁筷子·棉布	冬粉铁筷子·棉布
+古铜叶轮·天鹅绒	古铜叶轮·天鹅绒
+叶脉轻纱·蕾丝	叶脉轻纱·蕾丝
+墨松羽织·亚麻	墨松羽织·亚麻
+墨苔籽纱·蕾丝	墨苔籽纱·蕾丝
+墨蓝瓣雨·丝绸	墨蓝瓣雨·真丝
+夜藤细纱·蕾丝	夜藤细纱·蕾丝
+无花果绯雾·棉布	无花果绯雾·棉布
+杉影织砂·棉布	杉影织砂·棉布
+杏金榅桲·棉布	杏金榅桲·棉布
+松籽直绣·亚麻	松籽直绣·亚麻
+枫翼杏风·棉布	枫翼杏风·棉布
+柠蜜金鱼草·棉布	柠蜜金鱼草·棉布
+柳丝轻雨·棉布	柳丝轻雨·棉布
+桃绒奶霜·棉布	桃绒奶霜·棉布
+桑紫三瓣·棉布	桑紫三瓣·棉布
+棕荚点织·天鹅绒	棕荚点织·天鹅绒
+橄榄灰蓝·棉布	橄榄灰蓝·棉布
+橄榄菱纱·蕾丝	橄榄菱纱·蕾丝
+橘粉旱金莲·棉布	橘粉旱金莲·棉布
+沙洲柔痕·棉布	沙洲柔痕·棉布
+浅滩卵光·棉布	浅滩卵光·棉布
+浅金麦风·棉布	浅金麦风·棉布
+深青结叶·丝绸	深青结叶·真丝
+灰绿细格·亚麻	灰绿细格·亚麻
+炭影芽格·棉布	炭影芽格·棉布
+玉苔鱼鳞·丝绸	玉苔鱼鳞·真丝
+禾垛暮粉·棉布	禾垛暮粉·棉布
+秋苔织章·亚麻	秋苔织章·亚麻
+窗影青金·棉布	窗影青金·棉布
+粉霞秋英·棉布	粉霞秋英·棉布
+紫暮卷叶·天鹅绒	紫暮卷叶·天鹅绒
+紫灰籽锦·棉布	紫灰籽锦·棉布
+紫灰银莲·棉布	紫灰银莲·棉布
+绛枝回绣·丝绸	绛枝回绣·真丝
+绛棕枝纹·亚麻	绛棕枝纹·亚麻
+羽笔珠光·棉布	羽笔珠光·棉布
+翠羽斜纹·丝绸	翠羽斜纹·真丝
+苔丝环绣·亚麻	苔丝环绣·亚麻
+苔丝花网·蕾丝	苔丝花网·蕾丝
+苔境秘园·30款森林花纹布料	苔境秘园·30款森林花纹布料
+苔金暗绣·天鹅绒	苔金暗绣·天鹅绒
+莓红叶扇·丝绸	莓红叶扇·真丝
+莫奈拾光·30款棉布包	莫奈拾光·30款棉布包
+葡藤嫩影·棉布	葡藤嫩影·棉布
+蓝絮松虫草·棉布	蓝絮松虫草·棉布
+蕨尖卷绣·棉布	蕨尖卷绣·棉布
+蕨影青瓷·棉布	蕨影青瓷·棉布
+藕紫贝母·棉布	藕紫贝母·棉布
+藤线细条·亚麻	藤线细条·亚麻
+蜜桃香豌豆·棉布	蜜桃香豌豆·棉布
+铜光草绣·天鹅绒	铜光草绣·天鹅绒
+银杏乳光·棉布	银杏乳光·棉布
+银绿燕麦·棉布	银绿燕麦·棉布
+雾杏茶花·棉布	雾杏茶花·棉布
+雾银圆叶·棉布	雾银圆叶·棉布
+雾青花絮·亚麻	雾青花絮·亚麻
+青叶佩斯·棉布	青叶佩斯利·棉布
+青杏芦影·棉布	青杏芦影·棉布
+青梨微光·棉布	青梨微光·棉布
+青铃种荚·棉布	青铃种荚·棉布
+黄绒含羞·棉布	黄绒含羞·棉布
